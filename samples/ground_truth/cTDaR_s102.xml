@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="600000_2018_zzy_6.xml">
+	<table id="1">
+		<Coords points="112,362 112,715 688,715 688,362"/>
+		<cell id="1" start-col="0" start-row="0">
+			<Coords points="120,364 120,376 168,376 168,364"/>
+			<content>项 目</content>
+		</cell>
+		<cell id="2" start-col="1" start-row="0">
+			<Coords points="341,364 341,376 389,376 389,364"/>
+			<content>本报告期</content>
+		</cell>
+		<cell id="3" start-col="2" start-row="0">
+			<Coords points="469,364 469,376 517,376 517,364"/>
+			<content>上年同期</content>
+		</cell>
+		<cell id="4" start-col="3" start-row="0">
+			<Coords points="604,364 604,376 640,376 640,364"/>
+			<content>变动额</content>
+		</cell>
+		<cell id="5" start-col="0" start-row="1">
+			<Coords points="120,385 120,397 168,397 168,385"/>
+			<content>营业收入</content>
+		</cell>
+		<cell id="6" start-col="1" start-row="1">
+			<Coords points="353,385 353,397 389,397 389,385"/>
+			<content>82,256</content>
+		</cell>
+		<cell id="7" start-col="2" start-row="1">
+			<Coords points="481,385 481,397 517,397 517,385"/>
+			<content>84,045</content>
+		</cell>
+		<cell id="8" start-col="3" start-row="1">
+			<Coords points="609,385 609,397 645,397 645,385"/>
+			<content>-1,789</content>
+		</cell>
+		<cell id="9" start-col="0" start-row="2">
+			<Coords points="120,405 120,417 192,417 192,405"/>
+			<content>--利息净收入</content>
+		</cell>
+		<cell id="10" start-col="1" start-row="2">
+			<Coords points="353,405 353,417 389,417 389,405"/>
+			<content>51,297</content>
+		</cell>
+		<cell id="11" start-col="2" start-row="2">
+			<Coords points="481,405 481,417 517,417 517,405"/>
+			<content>51,803</content>
+		</cell>
+		<cell id="12" start-col="3" start-row="2">
+			<Coords points="621,405 621,417 645,417 645,405"/>
+			<content>-506</content>
+		</cell>
+		<cell id="13" start-col="0" start-row="3">
+			<Coords points="120,426 120,438 240,438 240,426"/>
+			<content>--手续费及佣金净收入</content>
+		</cell>
+		<cell id="14" start-col="1" start-row="3">
+			<Coords points="353,426 353,438 389,438 389,426"/>
+			<content>19,860</content>
+		</cell>
+		<cell id="15" start-col="2" start-row="3">
+			<Coords points="481,426 481,438 517,438 517,426"/>
+			<content>24,154</content>
+		</cell>
+		<cell id="16" start-col="3" start-row="3">
+			<Coords points="609,426 609,438 645,438 645,426"/>
+			<content>-4,294</content>
+		</cell>
+		<cell id="17" start-col="0" start-row="4">
+			<Coords points="120,446 120,458 192,458 192,446"/>
+			<content>--其他净收入</content>
+		</cell>
+		<cell id="18" start-col="1" start-row="4">
+			<Coords points="353,446 353,458 389,458 389,446"/>
+			<content>11,099</content>
+		</cell>
+		<cell id="19" start-col="2" start-row="4">
+			<Coords points="488,446 488,458 517,458 517,446"/>
+			<content>8,088</content>
+		</cell>
+		<cell id="20" start-col="3" start-row="4">
+			<Coords points="616,446 616,458 645,458 645,446"/>
+			<content>3,011</content>
+		</cell>
+		<cell id="21" start-col="0" start-row="5">
+			<Coords points="120,468 120,480 168,480 168,468"/>
+			<content>营业支出</content>
+		</cell>
+		<cell id="22" start-col="1" start-row="5">
+			<Coords points="353,468 353,480 389,480 389,468"/>
+			<content>48,092</content>
+		</cell>
+		<cell id="23" start-col="2" start-row="5">
+			<Coords points="481,468 481,480 517,480 517,468"/>
+			<content>47,374</content>
+		</cell>
+		<cell id="24" start-col="3" start-row="5">
+			<Coords points="628,468 628,480 645,480 645,468"/>
+			<content>718</content>
+		</cell>
+		<cell id="25" start-col="0" start-row="6">
+			<Coords points="120,489 120,501 192,501 192,489"/>
+			<content>--税金及附加</content>
+		</cell>
+		<cell id="26" start-col="1" start-row="6">
+			<Coords points="372,489 372,501 389,501 389,489"/>
+			<content>930</content>
+		</cell>
+		<cell id="27" start-col="2" start-row="6">
+			<Coords points="500,489 500,501 517,501 517,489"/>
+			<content>741</content>
+		</cell>
+		<cell id="28" start-col="3" start-row="6">
+			<Coords points="628,489 628,501 645,501 645,489"/>
+			<content>189</content>
+		</cell>
+		<cell id="29" start-col="0" start-row="7">
+			<Coords points="120,509 120,521 204,521 204,509"/>
+			<content>--业务及管理费</content>
+		</cell>
+		<cell id="30" start-col="1" start-row="7">
+			<Coords points="353,509 353,521 389,521 389,509"/>
+			<content>19,971</content>
+		</cell>
+		<cell id="31" start-col="2" start-row="7">
+			<Coords points="481,509 481,521 517,521 517,509"/>
+			<content>19,236</content>
+		</cell>
+		<cell id="32" start-col="3" start-row="7">
+			<Coords points="628,509 628,521 645,521 645,509"/>
+			<content>735</content>
+		</cell>
+		<cell id="33" start-col="0" start-row="8">
+			<Coords points="120,530 120,542 204,542 204,530"/>
+			<content>--资产减值损失</content>
+		</cell>
+		<cell id="34" start-col="1" start-row="8">
+			<Coords points="353,530 353,542 389,542 389,530"/>
+			<content>26,929</content>
+		</cell>
+		<cell id="35" start-col="2" start-row="8">
+			<Coords points="481,530 481,542 517,542 517,530"/>
+			<content>27,170</content>
+		</cell>
+		<cell id="36" start-col="3" start-row="8">
+			<Coords points="621,530 621,542 645,542 645,530"/>
+			<content>-241</content>
+		</cell>
+		<cell id="37" start-col="0" start-row="9">
+			<Coords points="120,550 120,562 204,562 204,550"/>
+			<content>--其他业务成本</content>
+		</cell>
+		<cell id="38" start-col="1" start-row="9">
+			<Coords points="372,550 372,562 389,562 389,550"/>
+			<content>262</content>
+		</cell>
+		<cell id="39" start-col="2" start-row="9">
+			<Coords points="500,550 500,562 517,562 517,550"/>
+			<content>227</content>
+		</cell>
+		<cell id="40" start-col="3" start-row="9">
+			<Coords points="633,550 633,562 645,562 645,550"/>
+			<content>35</content>
+		</cell>
+		<cell id="41" start-col="0" start-row="10">
+			<Coords points="120,572 120,584 180,584 180,572"/>
+			<content>营业外收入</content>
+		</cell>
+		<cell id="42" start-col="1" start-row="10">
+			<Coords points="377,572 377,584 389,584 389,572"/>
+			<content>41</content>
+		</cell>
+		<cell id="43" start-col="2" start-row="10">
+			<Coords points="500,572 500,584 517,584 517,572"/>
+			<content>115</content>
+		</cell>
+		<cell id="44" start-col="3" start-row="10">
+			<Coords points="628,572 628,584 645,584 645,572"/>
+			<content>-74</content>
+		</cell>
+		<cell id="45" start-col="0" start-row="11">
+			<Coords points="120,593 120,605 180,605 180,593"/>
+			<content>营业外支出</content>
+		</cell>
+		<cell id="46" start-col="1" start-row="11">
+			<Coords points="377,593 377,605 389,605 389,593"/>
+			<content>44</content>
+		</cell>
+		<cell id="47" start-col="2" start-row="11">
+			<Coords points="505,593 505,605 517,605 517,593"/>
+			<content>35</content>
+		</cell>
+		<cell id="48" start-col="3" start-row="11">
+			<Coords points="640,593 640,605 645,605 645,593"/>
+			<content>9</content>
+		</cell>
+		<cell id="49" start-col="0" start-row="12">
+			<Coords points="120,613 120,625 168,625 168,613"/>
+			<content>利润总额</content>
+		</cell>
+		<cell id="50" start-col="1" start-row="12">
+			<Coords points="353,613 353,625 389,625 389,613"/>
+			<content>34,161</content>
+		</cell>
+		<cell id="51" start-col="2" start-row="12">
+			<Coords points="481,613 481,625 517,625 517,613"/>
+			<content>36,751</content>
+		</cell>
+		<cell id="52" start-col="3" start-row="12">
+			<Coords points="609,613 609,625 645,625 645,613"/>
+			<content>-2,590</content>
+		</cell>
+		<cell id="53" start-col="0" start-row="13">
+			<Coords points="120,634 120,646 180,646 180,634"/>
+			<content>所得税费用</content>
+		</cell>
+		<cell id="54" start-col="1" start-row="13">
+			<Coords points="360,634 360,646 389,646 389,634"/>
+			<content>5,261</content>
+		</cell>
+		<cell id="55" start-col="2" start-row="13">
+			<Coords points="488,634 488,646 517,646 517,634"/>
+			<content>8,229</content>
+		</cell>
+		<cell id="56" start-col="3" start-row="13">
+			<Coords points="609,634 609,646 645,646 645,634"/>
+			<content>-2,968</content>
+		</cell>
+		<cell id="57" start-col="0" start-row="14">
+			<Coords points="120,654 120,666 156,666 156,654"/>
+			<content>净利润</content>
+		</cell>
+		<cell id="58" start-col="1" start-row="14">
+			<Coords points="353,654 353,666 389,666 389,654"/>
+			<content>28,900</content>
+		</cell>
+		<cell id="59" start-col="2" start-row="14">
+			<Coords points="481,654 481,666 517,666 517,654"/>
+			<content>28,522</content>
+		</cell>
+		<cell id="60" start-col="3" start-row="14">
+			<Coords points="628,654 628,666 645,666 645,654"/>
+			<content>378</content>
+		</cell>
+		<cell id="61" start-col="0" start-row="15">
+			<Coords points="120,676 120,688 264,688 264,676"/>
+			<content>归属于母公司股东的净利润</content>
+		</cell>
+		<cell id="62" start-col="1" start-row="15">
+			<Coords points="353,676 353,688 389,688 389,676"/>
+			<content>28,569</content>
+		</cell>
+		<cell id="63" start-col="2" start-row="15">
+			<Coords points="481,676 481,688 517,688 517,676"/>
+			<content>28,165</content>
+		</cell>
+		<cell id="64" start-col="3" start-row="15">
+			<Coords points="628,676 628,688 645,688 645,676"/>
+			<content>404</content>
+		</cell>
+		<cell id="65" start-col="0" start-row="16">
+			<Coords points="120,697 120,709 192,709 192,697"/>
+			<content>少数股东损益</content>
+		</cell>
+		<cell id="66" start-col="1" start-row="16">
+			<Coords points="372,697 372,709 389,709 389,697"/>
+			<content>331</content>
+		</cell>
+		<cell id="67" start-col="2" start-row="16">
+			<Coords points="500,697 500,709 517,709 517,697"/>
+			<content>357</content>
+		</cell>
+		<cell id="68" start-col="3" start-row="16">
+			<Coords points="628,697 628,709 645,709 645,697"/>
+			<content>-26</content>
+		</cell>
+	</table>
+	<table id="2">
+		<Coords points="114,892 114,998 682,998 682,892"/>
+		<cell id="1" start-col="0" start-row="0">
+			<Coords points="120,894 120,906 168,906 168,894"/>
+			<content>项 目</content>
+		</cell>
+		<cell id="2" start-col="1" start-row="0">
+			<Coords points="318,894 318,906 424,906 424,894"/>
+			<content>2018 年 1-6 月（%）</content>
+		</cell>
+		<cell id="3" start-col="2" start-row="0">
+			<Coords points="445,894 445,906 550,906 550,894"/>
+			<content>2017 年 1-6 月（%）</content>
+		</cell>
+		<cell id="4" start-col="3" start-row="0">
+			<Coords points="566,894 566,906 672,906 672,894"/>
+			<content>2016 年 1-6 月（%）</content>
+		</cell>
+		<cell id="5" start-col="0" start-row="1">
+			<Coords points="120,916 120,928 180,928 180,916"/>
+			<content>利息净收入</content>
+		</cell>
+		<cell id="6" start-col="1" start-row="1">
+			<Coords points="364,916 364,928 393,928 393,916"/>
+			<content>62.36</content>
+		</cell>
+		<cell id="7" start-col="2" start-row="1">
+			<Coords points="485,916 485,928 516,928 516,916"/>
+			<content>61.64</content>
+		</cell>
+		<cell id="8" start-col="3" start-row="1">
+			<Coords points="606,916 606,928 637,928 637,916"/>
+			<content>67.07</content>
+		</cell>
+		<cell id="9" start-col="0" start-row="2">
+			<Coords points="120,936 120,948 228,948 228,936"/>
+			<content>手续费及佣金净收入</content>
+		</cell>
+		<cell id="10" start-col="1" start-row="2">
+			<Coords points="364,936 364,948 393,948 393,936"/>
+			<content>24.14</content>
+		</cell>
+		<cell id="11" start-col="2" start-row="2">
+			<Coords points="485,936 485,948 516,948 516,936"/>
+			<content>28.74</content>
+		</cell>
+		<cell id="12" start-col="3" start-row="2">
+			<Coords points="606,936 606,948 637,948 637,936"/>
+			<content>27.12</content>
+		</cell>
+		<cell id="13" start-col="0" start-row="3">
+			<Coords points="120,957 120,969 180,969 180,957"/>
+			<content>其他净收入</content>
+		</cell>
+		<cell id="14" start-col="1" start-row="3">
+			<Coords points="364,957 364,969 393,969 393,957"/>
+			<content>13.50</content>
+		</cell>
+		<cell id="15" start-col="2" start-row="3">
+			<Coords points="490,957 490,969 514,969 514,957"/>
+			<content>9.62</content>
+		</cell>
+		<cell id="16" start-col="3" start-row="3">
+			<Coords points="613,957 613,969 637,969 637,957"/>
+			<content>5.81</content>
+		</cell>
+		<cell id="17" start-col="0" start-row="4">
+			<Coords points="120,978 120,990 168,990 168,978"/>
+			<content>合 计</content>
+		</cell>
+		<cell id="18" start-col="1" start-row="4">
+			<Coords points="357,978 357,990 393,990 393,978"/>
+			<content>100.00</content>
+		</cell>
+		<cell id="19" start-col="2" start-row="4">
+			<Coords points="478,978 478,990 514,990 514,978"/>
+			<content>100.00</content>
+		</cell>
+		<cell id="20" start-col="3" start-row="4">
+			<Coords points="601,978 601,990 637,990 637,978"/>
+			<content>100.00</content>
+		</cell>
+	</table>
+</document>

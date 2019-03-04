@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="1608.00010_3.xml">
+	<table id="1">
+		<Coords points="423,131 423,544 748,544 748,131"/>
+		<cell id="1" start-col="0" start-row="0">
+			<Coords points="449,136 449,146 473,146 473,136"/>
+			<content>Expt</content>
+		</cell>
+		<cell id="2" start-col="0" start-row="0">
+			<Coords points="506,136 506,148 564,148 564,136"/>
+			<content>NH (ML)a3</content>
+		</cell>
+		<cell id="3" start-col="0" start-row="0">
+			<Coords points="577,136 577,146 656,146 656,136"/>
+			<content>HCOOH (ML)a</content>
+		</cell>
+		<cell id="4" start-col="3" start-row="0">
+			<Coords points="669,136 669,146 740,146 740,136"/>
+			<content>Set temp (K)b</content>
+		</cell>
+		<cell end-col="3" id="5" start-col="0" start-row="1">
+			<Coords points="429,161 429,173 521,173 521,161"/>
+			<content>TPD experimentsc</content>
+		</cell>
+		<cell id="6" start-col="0" start-row="2">
+			<Coords points="429,177 429,188 434,188 434,177"/>
+			<content>1</content>
+		</cell>
+		<cell id="7" start-col="0" start-row="2">
+			<Coords points="525,177 525,188 545,188 545,177"/>
+			<content>10.0</content>
+		</cell>
+		<cell id="8" start-col="0" start-row="2">
+			<Coords points="614,177 614,188 618,188 618,177"/>
+			<content>-</content>
+		</cell>
+		<cell id="9" start-col="3" start-row="2">
+			<Coords points="693,177 693,188 716,188 716,177"/>
+			<content>N/A</content>
+		</cell>
+		<cell id="10" start-col="0" start-row="3">
+			<Coords points="429,189 429,200 434,200 434,189"/>
+			<content>2</content>
+		</cell>
+		<cell id="11" start-col="0" start-row="3">
+			<Coords points="533,189 533,200 537,200 537,189"/>
+			<content>-</content>
+		</cell>
+		<cell id="12" start-col="0" start-row="3">
+			<Coords points="606,189 606,200 626,200 626,189"/>
+			<content>13.2</content>
+		</cell>
+		<cell id="13" start-col="3" start-row="3">
+			<Coords points="693,189 693,200 716,200 716,189"/>
+			<content>N/A</content>
+		</cell>
+		<cell id="14" start-col="0" start-row="3">
+			<Coords points="429,200 429,210 434,210 434,200"/>
+			<content>3</content>
+		</cell>
+		<cell id="15" start-col="0" start-row="3">
+			<Coords points="528,200 528,210 542,210 542,200"/>
+			<content>9.2</content>
+		</cell>
+		<cell id="16" start-col="0" start-row="3">
+			<Coords points="609,200 609,210 624,210 624,200"/>
+			<content>6.3</content>
+		</cell>
+		<cell id="17" start-col="3" start-row="3">
+			<Coords points="693,200 693,210 716,210 716,200"/>
+			<content>N/A</content>
+		</cell>
+		<cell end-col="3" id="18" start-col="0" start-row="4">
+			<Coords points="429,218 429,229 557,229 557,218"/>
+			<content>Codeposition experiments</content>
+		</cell>
+		<cell id="19" start-col="0" start-row="5">
+			<Coords points="429,233 429,244 434,244 434,233"/>
+			<content>4</content>
+		</cell>
+		<cell id="20" start-col="0" start-row="5">
+			<Coords points="525,233 525,244 545,244 545,233"/>
+			<content>17.6</content>
+		</cell>
+		<cell id="21" start-col="0" start-row="5">
+			<Coords points="609,233 609,244 624,244 624,233"/>
+			<content>6.9</content>
+		</cell>
+		<cell id="22" start-col="3" start-row="5">
+			<Coords points="700,233 700,244 710,244 710,233"/>
+			<content>20</content>
+		</cell>
+		<cell id="23" start-col="0" start-row="5">
+			<Coords points="429,244 429,254 434,254 434,244"/>
+			<content>5</content>
+		</cell>
+		<cell id="24" start-col="0" start-row="5">
+			<Coords points="525,244 525,254 545,254 545,244"/>
+			<content>18.5</content>
+		</cell>
+		<cell id="25" start-col="0" start-row="5">
+			<Coords points="609,244 609,254 624,254 624,244"/>
+			<content>7.5</content>
+		</cell>
+		<cell id="26" start-col="3" start-row="5">
+			<Coords points="700,244 700,254 710,254 710,244"/>
+			<content>65</content>
+		</cell>
+		<cell id="27" start-col="0" start-row="6">
+			<Coords points="429,256 429,266 434,266 434,256"/>
+			<content>6</content>
+		</cell>
+		<cell id="28" start-col="0" start-row="6">
+			<Coords points="525,256 525,266 545,266 545,256"/>
+			<content>18.4</content>
+		</cell>
+		<cell id="29" start-col="0" start-row="6">
+			<Coords points="609,256 609,266 624,266 624,256"/>
+			<content>7.4</content>
+		</cell>
+		<cell id="30" start-col="3" start-row="6">
+			<Coords points="700,256 700,266 710,266 710,256"/>
+			<content>85</content>
+		</cell>
+		<cell end-col="3" id="31" start-col="0" start-row="7">
+			<Coords points="429,273 429,284 554,284 554,273"/>
+			<content>Layered step experiments</content>
+		</cell>
+		<cell id="32" start-col="0" start-row="9">
+			<Coords points="429,290 429,301 434,301 434,290"/>
+			<content>7</content>
+		</cell>
+		<cell id="33" start-col="0" start-row="9">
+			<Coords points="528,290 528,301 542,301 542,290"/>
+			<content>1.3</content>
+		</cell>
+		<cell id="34" start-col="0" start-row="9">
+			<Coords points="609,290 609,301 624,301 624,290"/>
+			<content>1.3</content>
+		</cell>
+		<cell id="35" start-col="3" start-row="9">
+			<Coords points="686,289 686,301 724,301 724,289"/>
+			<content>75-125d</content>
+		</cell>
+		<cell id="36" start-col="0" start-row="8">
+			<Coords points="429,302 429,313 434,313 434,302"/>
+			<content>8</content>
+		</cell>
+		<cell id="37" start-col="0" start-row="8">
+			<Coords points="528,302 528,313 542,313 542,302"/>
+			<content>3.7</content>
+		</cell>
+		<cell id="38" start-col="0" start-row="8">
+			<Coords points="609,302 609,313 624,313 624,302"/>
+			<content>2.9</content>
+		</cell>
+		<cell id="39" start-col="3" start-row="9">
+			<Coords points="686,301 686,313 724,313 724,301"/>
+			<content>40-140d</content>
+		</cell>
+		<cell id="40" start-col="0" start-row="10">
+			<Coords points="429,316 429,326 434,326 434,316"/>
+			<content>9</content>
+		</cell>
+		<cell id="41" start-col="0" start-row="10">
+			<Coords points="528,316 528,326 542,326 542,316"/>
+			<content>8.6</content>
+		</cell>
+		<cell id="42" start-col="0" start-row="10">
+			<Coords points="609,316 609,326 624,326 624,316"/>
+			<content>7.5</content>
+		</cell>
+		<cell id="43" start-col="3" start-row="10">
+			<Coords points="686,314 686,326 724,326 724,314"/>
+			<content>40-140d</content>
+		</cell>
+		<cell end-col="3" id="44" start-col="0" start-row="11">
+			<Coords points="429,334 429,345 662,345 662,334"/>
+			<content>Layered single-temperature experiments (1ML)</content>
+		</cell>
+		<cell id="45" start-col="0" start-row="12">
+			<Coords points="429,349 429,360 441,360 441,349"/>
+			<content>10</content>
+		</cell>
+		<cell id="46" start-col="0" start-row="12">
+			<Coords points="528,349 528,360 542,360 542,349"/>
+			<content>1.5</content>
+		</cell>
+		<cell id="47" start-col="0" start-row="12">
+			<Coords points="609,349 609,360 624,360 624,349"/>
+			<content>1.0</content>
+		</cell>
+		<cell id="48" start-col="3" start-row="12">
+			<Coords points="700,349 700,360 710,360 710,349"/>
+			<content>75</content>
+		</cell>
+		<cell id="49" start-col="0" start-row="12">
+			<Coords points="429,360 429,370 441,370 441,360"/>
+			<content>11</content>
+		</cell>
+		<cell id="50" start-col="0" start-row="12">
+			<Coords points="528,360 528,370 542,370 542,360"/>
+			<content>1.5</content>
+		</cell>
+		<cell id="51" start-col="0" start-row="12">
+			<Coords points="609,360 609,370 624,370 624,360"/>
+			<content>1.1</content>
+		</cell>
+		<cell id="52" start-col="3" start-row="12">
+			<Coords points="700,360 700,370 710,370 710,360"/>
+			<content>85</content>
+		</cell>
+		<cell id="53" start-col="0" start-row="12">
+			<Coords points="429,370 429,381 441,381 441,370"/>
+			<content>12</content>
+		</cell>
+		<cell id="54" start-col="0" start-row="12">
+			<Coords points="528,370 528,381 542,381 542,370"/>
+			<content>1.8</content>
+		</cell>
+		<cell id="55" start-col="0" start-row="12">
+			<Coords points="609,370 609,381 624,381 624,370"/>
+			<content>1.2</content>
+		</cell>
+		<cell id="56" start-col="3" start-row="12">
+			<Coords points="700,370 700,381 710,381 710,370"/>
+			<content>95</content>
+		</cell>
+		<cell id="57" start-col="0" start-row="13">
+			<Coords points="429,382 429,393 441,393 441,382"/>
+			<content>13</content>
+		</cell>
+		<cell id="58" start-col="0" start-row="13">
+			<Coords points="528,382 528,393 542,393 542,382"/>
+			<content>1.8</content>
+		</cell>
+		<cell id="59" start-col="0" start-row="13">
+			<Coords points="609,382 609,393 624,393 624,382"/>
+			<content>0.9</content>
+		</cell>
+		<cell id="60" start-col="3" start-row="13">
+			<Coords points="697,382 697,393 713,393 713,382"/>
+			<content>105</content>
+		</cell>
+		<cell end-col="3" id="61" start-col="0" start-row="14">
+			<Coords points="429,401 429,412 662,412 662,401"/>
+			<content>Layered single-temperature experiments (8ML)</content>
+		</cell>
+		<cell id="62" start-col="0" start-row="15">
+			<Coords points="429,416 429,426 441,426 441,416"/>
+			<content>14</content>
+		</cell>
+		<cell id="63" start-col="0" start-row="15">
+			<Coords points="528,416 528,426 542,426 542,416"/>
+			<content>9.2</content>
+		</cell>
+		<cell id="64" start-col="0" start-row="15">
+			<Coords points="609,416 609,426 624,426 624,416"/>
+			<content>6.3</content>
+		</cell>
+		<cell id="65" start-col="3" start-row="15">
+			<Coords points="700,416 700,426 710,426 710,416"/>
+			<content>40</content>
+		</cell>
+		<cell id="66" start-col="0" start-row="15">
+			<Coords points="429,426 429,437 441,437 441,426"/>
+			<content>15</content>
+		</cell>
+		<cell id="67" start-col="0" start-row="15">
+			<Coords points="528,426 528,437 542,437 542,426"/>
+			<content>9.3</content>
+		</cell>
+		<cell id="68" start-col="0" start-row="15">
+			<Coords points="609,426 609,437 624,437 624,426"/>
+			<content>7.9</content>
+		</cell>
+		<cell id="69" start-col="3" start-row="15">
+			<Coords points="700,426 700,437 710,437 710,426"/>
+			<content>85</content>
+		</cell>
+		<cell id="70" start-col="0" start-row="15">
+			<Coords points="429,437 429,448 441,448 441,437"/>
+			<content>16</content>
+		</cell>
+		<cell id="71" start-col="0" start-row="15">
+			<Coords points="528,437 528,448 542,448 542,437"/>
+			<content>9.2</content>
+		</cell>
+		<cell id="72" start-col="0" start-row="15">
+			<Coords points="609,437 609,448 624,448 624,437"/>
+			<content>6.8</content>
+		</cell>
+		<cell id="73" start-col="3" start-row="15">
+			<Coords points="700,437 700,448 710,448 710,437"/>
+			<content>95</content>
+		</cell>
+		<cell id="74" start-col="0" start-row="15">
+			<Coords points="429,448 429,460 445,460 445,448"/>
+			<content>17e</content>
+		</cell>
+		<cell id="75" start-col="0" start-row="15">
+			<Coords points="528,449 528,460 542,460 542,449"/>
+			<content>9.1</content>
+		</cell>
+		<cell id="76" start-col="0" start-row="15">
+			<Coords points="609,449 609,460 624,460 624,449"/>
+			<content>7.7</content>
+		</cell>
+		<cell id="77" start-col="3" start-row="15">
+			<Coords points="700,449 700,460 710,460 710,449"/>
+			<content>95</content>
+		</cell>
+		<cell id="78" start-col="0" start-row="15">
+			<Coords points="429,460 429,470 441,470 441,460"/>
+			<content>18</content>
+		</cell>
+		<cell id="79" start-col="0" start-row="15">
+			<Coords points="528,460 528,470 542,470 542,460"/>
+			<content>9.1</content>
+		</cell>
+		<cell id="80" start-col="0" start-row="15">
+			<Coords points="609,460 609,470 624,470 624,460"/>
+			<content>7.3</content>
+		</cell>
+		<cell id="81" start-col="3" start-row="15">
+			<Coords points="697,460 697,470 713,470 713,460"/>
+			<content>105</content>
+		</cell>
+		<cell id="82" start-col="0" start-row="15">
+			<Coords points="429,470 429,481 441,481 441,470"/>
+			<content>19</content>
+		</cell>
+		<cell id="83" start-col="0" start-row="15">
+			<Coords points="528,470 528,481 542,481 542,470"/>
+			<content>9.7</content>
+		</cell>
+		<cell id="84" start-col="0" start-row="15">
+			<Coords points="609,470 609,481 624,481 624,470"/>
+			<content>6.7</content>
+		</cell>
+		<cell id="85" start-col="3" start-row="15">
+			<Coords points="697,470 697,481 713,481 713,470"/>
+			<content>115</content>
+		</cell>
+		<cell id="86" start-col="0" start-row="15">
+			<Coords points="429,481 429,493 445,493 445,481"/>
+			<content>20e</content>
+		</cell>
+		<cell id="87" start-col="0" start-row="15">
+			<Coords points="528,482 528,493 542,493 542,482"/>
+			<content>8.2</content>
+		</cell>
+		<cell id="88" start-col="0" start-row="15">
+			<Coords points="609,482 609,493 624,493 624,482"/>
+			<content>6.1</content>
+		</cell>
+		<cell id="89" start-col="3" start-row="15">
+			<Coords points="697,482 697,493 713,493 713,482"/>
+			<content>115</content>
+		</cell>
+		<cell id="90" start-col="0" start-row="15">
+			<Coords points="429,493 429,504 441,504 441,493"/>
+			<content>21</content>
+		</cell>
+		<cell id="91" start-col="0" start-row="15">
+			<Coords points="528,493 528,504 542,504 542,493"/>
+			<content>8.3</content>
+		</cell>
+		<cell id="92" start-col="0" start-row="15">
+			<Coords points="609,493 609,504 624,504 624,493"/>
+			<content>7.5</content>
+		</cell>
+		<cell id="93" start-col="3" start-row="15">
+			<Coords points="697,493 697,504 713,504 713,493"/>
+			<content>125</content>
+		</cell>
+		<cell id="94" start-col="0" start-row="15">
+			<Coords points="429,504 429,514 441,514 441,504"/>
+			<content>22</content>
+		</cell>
+		<cell id="95" start-col="0" start-row="15">
+			<Coords points="528,504 528,514 542,514 542,504"/>
+			<content>8.4</content>
+		</cell>
+		<cell id="96" start-col="0" start-row="15">
+			<Coords points="609,504 609,514 624,514 624,504"/>
+			<content>6.8</content>
+		</cell>
+		<cell id="97" start-col="3" start-row="15">
+			<Coords points="697,504 697,514 713,514 713,504"/>
+			<content>130</content>
+		</cell>
+		<cell id="98" start-col="0" start-row="17">
+			<Coords points="429,516 429,526 441,526 441,516"/>
+			<content>23</content>
+		</cell>
+		<cell id="99" start-col="0" start-row="17">
+			<Coords points="528,516 528,526 542,526 542,516"/>
+			<content>9.0</content>
+		</cell>
+		<cell id="100" start-col="0" start-row="17">
+			<Coords points="609,516 609,526 624,526 624,516"/>
+			<content>6.9</content>
+		</cell>
+		<cell id="101" start-col="3" start-row="17">
+			<Coords points="697,516 697,526 713,526 713,516"/>
+			<content>140</content>
+		</cell>
+		<cell id="102" start-col="0" start-row="16">
+			<Coords points="429,528 429,538 441,538 441,528"/>
+			<content>24</content>
+		</cell>
+		<cell id="103" start-col="0" start-row="16">
+			<Coords points="528,528 528,538 542,538 542,528"/>
+			<content>9.5</content>
+		</cell>
+		<cell id="104" start-col="0" start-row="16">
+			<Coords points="609,528 609,538 624,538 624,528"/>
+			<content>6.4</content>
+		</cell>
+		<cell id="105" start-col="3" start-row="17">
+			<Coords points="694,528 694,538 716,538 716,528"/>
+			<content>115f</content>
+		</cell>
+	</table>
+</document>

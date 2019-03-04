@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document filename="KS-RA-07-013-EN.PDF_314.xml">
+	<table id="1">
+		<Coords points="92,442 92,528 350,528 350,442"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="154,442 154,453 200,453 200,442"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="205,442 205,453 250,453 250,442"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="254,442 254,453 300,453 300,442"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="4" start-col="4" start-row="0">
+			<Coords points="316,442 316,453 338,453 338,442"/>
+			<content>Total</content>
+		</cell>
+		<cell id="5" start-col="0" start-row="1">
+			<Coords points="92,461 92,472 136,472 136,461"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="6" start-col="1" start-row="1">
+			<Coords points="190,461 190,472 201,472 201,461"/>
+			<content>90</content>
+		</cell>
+		<cell id="7" start-col="2" start-row="1">
+			<Coords points="245,461 245,472 250,472 250,461"/>
+			<content>5</content>
+		</cell>
+		<cell id="8" start-col="3" start-row="1">
+			<Coords points="289,461 289,472 300,472 300,461"/>
+			<content>15</content>
+		</cell>
+		<cell id="9" start-col="4" start-row="1">
+			<Coords points="334,461 334,472 350,472 350,461"/>
+			<content>110</content>
+		</cell>
+		<cell id="10" start-col="0" start-row="2">
+			<Coords points="92,480 92,490 134,490 134,480"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="11" start-col="1" start-row="2">
+			<Coords points="190,480 190,490 201,490 201,480"/>
+			<content>70</content>
+		</cell>
+		<cell id="12" start-col="2" start-row="2">
+			<Coords points="234,480 234,490 250,490 250,480"/>
+			<content>180</content>
+		</cell>
+		<cell id="13" start-col="3" start-row="2">
+			<Coords points="289,480 289,490 300,490 300,480"/>
+			<content>50</content>
+		</cell>
+		<cell id="14" start-col="4" start-row="2">
+			<Coords points="334,480 334,490 350,490 350,480"/>
+			<content>300</content>
+		</cell>
+		<cell id="15" start-col="0" start-row="3">
+			<Coords points="92,498 92,509 136,509 136,498"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="16" start-col="1" start-row="3">
+			<Coords points="190,498 190,509 201,509 201,498"/>
+			<content>50</content>
+		</cell>
+		<cell id="17" start-col="2" start-row="3">
+			<Coords points="240,498 240,509 250,509 250,498"/>
+			<content>45</content>
+		</cell>
+		<cell id="18" start-col="3" start-row="3">
+			<Coords points="284,498 284,509 300,509 300,498"/>
+			<content>155</content>
+		</cell>
+		<cell id="19" start-col="4" start-row="3">
+			<Coords points="334,498 334,509 350,509 350,498"/>
+			<content>250</content>
+		</cell>
+		<cell id="20" start-col="0" start-row="4">
+			<Coords points="92,517 92,528 113,528 113,517"/>
+			<content>Total</content>
+		</cell>
+		<cell id="21" start-col="1" start-row="4">
+			<Coords points="185,517 185,528 201,528 201,517"/>
+			<content>210</content>
+		</cell>
+		<cell id="22" start-col="2" start-row="4">
+			<Coords points="234,517 234,528 250,528 250,517"/>
+			<content>230</content>
+		</cell>
+		<cell id="23" start-col="3" start-row="4">
+			<Coords points="284,517 284,528 300,528 300,517"/>
+			<content>220</content>
+		</cell>
+		<cell id="24" start-col="4" start-row="4">
+			<Coords points="334,517 334,528 350,528 350,517"/>
+			<content>660</content>
+		</cell>
+	</table>
+	<table id="2">
+		<Coords points="414,442 414,528 673,528 673,442"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="477,442 477,453 522,453 522,442"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="528,442 528,453 573,453 573,442"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="577,442 577,453 622,453 622,442"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="4" start-col="4" start-row="0">
+			<Coords points="640,442 640,453 661,453 661,442"/>
+			<content>Total</content>
+		</cell>
+		<cell id="5" start-col="0" start-row="1">
+			<Coords points="414,461 414,472 458,472 458,461"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="6" start-col="1" start-row="1">
+			<Coords points="513,461 513,472 525,472 525,461"/>
+			<content>90</content>
+		</cell>
+		<cell id="7" start-col="2" start-row="1">
+			<Coords points="568,461 568,472 573,472 573,461"/>
+			<content>5</content>
+		</cell>
+		<cell id="8" start-col="3" start-row="1">
+			<Coords points="612,461 612,472 622,472 622,461"/>
+			<content>15</content>
+		</cell>
+		<cell id="9" start-col="4" start-row="1">
+			<Coords points="657,461 657,472 673,472 673,461"/>
+			<content>110</content>
+		</cell>
+		<cell id="10" start-col="0" start-row="2">
+			<Coords points="414,480 414,490 458,490 458,480"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="11" start-col="1" start-row="2">
+			<Coords points="513,480 513,490 525,490 525,480"/>
+			<content>70</content>
+		</cell>
+		<cell id="12" start-col="2" start-row="2">
+			<Coords points="557,480 557,490 573,490 573,480"/>
+			<content>180</content>
+		</cell>
+		<cell id="13" start-col="3" start-row="2">
+			<Coords points="612,480 612,490 622,490 622,480"/>
+			<content>50</content>
+		</cell>
+		<cell id="14" start-col="4" start-row="2">
+			<Coords points="657,480 657,490 673,490 673,480"/>
+			<content>300</content>
+		</cell>
+		<cell id="15" start-col="0" start-row="3">
+			<Coords points="414,498 414,509 458,509 458,498"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="16" start-col="1" start-row="3">
+			<Coords points="513,498 513,509 525,509 525,498"/>
+			<content>50</content>
+		</cell>
+		<cell id="17" start-col="2" start-row="3">
+			<Coords points="562,498 562,509 573,509 573,498"/>
+			<content>45</content>
+		</cell>
+		<cell id="18" start-col="3" start-row="3">
+			<Coords points="606,498 606,509 622,509 622,498"/>
+			<content>155</content>
+		</cell>
+		<cell id="19" start-col="4" start-row="3">
+			<Coords points="657,498 657,509 673,509 673,498"/>
+			<content>250</content>
+		</cell>
+		<cell id="20" start-col="0" start-row="4">
+			<Coords points="414,517 414,528 436,528 436,517"/>
+			<content>Total</content>
+		</cell>
+		<cell id="21" start-col="1" start-row="4">
+			<Coords points="508,517 508,528 524,528 524,517"/>
+			<content>210</content>
+		</cell>
+		<cell id="22" start-col="2" start-row="4">
+			<Coords points="557,517 557,528 573,528 573,517"/>
+			<content>230</content>
+		</cell>
+		<cell id="23" start-col="3" start-row="4">
+			<Coords points="606,517 606,528 622,528 622,517"/>
+			<content>220</content>
+		</cell>
+		<cell id="24" start-col="4" start-row="4">
+			<Coords points="657,517 657,528 673,528 673,517"/>
+			<content>660</content>
+		</cell>
+	</table>
+	<table id="3">
+		<Coords points="92,574 92,680 396,680 396,574"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="154,574 154,585 200,585 200,574"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="205,574 205,585 250,585 250,574"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="254,574 254,585 300,585 300,574"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="4" start-col="4" start-row="0">
+			<Coords points="304,574 304,585 350,585 350,574"/>
+			<content>Finaldem.</content>
+		</cell>
+		<cell id="5" start-col="5" start-row="0">
+			<Coords points="358,574 358,585 392,585 392,574"/>
+			<content>Output</content>
+		</cell>
+		<cell id="6" start-col="0" start-row="1">
+			<Coords points="92,593 92,604 136,604 136,593"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="7" start-col="1" start-row="1">
+			<Coords points="190,593 190,604 201,604 201,593"/>
+			<content>10</content>
+		</cell>
+		<cell id="8" start-col="2" start-row="1">
+			<Coords points="240,593 240,604 250,604 250,593"/>
+			<content>60</content>
+		</cell>
+		<cell id="9" start-col="3" start-row="1">
+			<Coords points="294,593 294,604 300,604 300,593"/>
+			<content>5</content>
+		</cell>
+		<cell id="10" start-col="4" start-row="1">
+			<Coords points="340,593 340,604 350,604 350,593"/>
+			<content>35</content>
+		</cell>
+		<cell id="11" start-col="5" start-row="1">
+			<Coords points="380,593 380,604 396,604 396,593"/>
+			<content>110</content>
+		</cell>
+		<cell id="12" start-col="0" start-row="2">
+			<Coords points="92,612 92,622 134,622 134,612"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="13" start-col="1" start-row="2">
+			<Coords points="190,612 190,622 201,622 201,612"/>
+			<content>40</content>
+		</cell>
+		<cell id="14" start-col="2" start-row="2">
+			<Coords points="240,612 240,622 250,622 250,612"/>
+			<content>60</content>
+		</cell>
+		<cell id="15" start-col="3" start-row="2">
+			<Coords points="289,612 289,622 300,622 300,612"/>
+			<content>20</content>
+		</cell>
+		<cell id="16" start-col="4" start-row="2">
+			<Coords points="334,612 334,622 350,622 350,612"/>
+			<content>180</content>
+		</cell>
+		<cell id="17" start-col="5" start-row="2">
+			<Coords points="380,612 380,622 396,622 396,612"/>
+			<content>300</content>
+		</cell>
+		<cell id="18" start-col="0" start-row="3">
+			<Coords points="92,630 92,641 136,641 136,630"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="19" start-col="1" start-row="3">
+			<Coords points="190,630 190,641 201,641 201,630"/>
+			<content>20</content>
+		</cell>
+		<cell id="20" start-col="2" start-row="3">
+			<Coords points="240,630 240,641 250,641 250,630"/>
+			<content>30</content>
+		</cell>
+		<cell id="21" start-col="3" start-row="3">
+			<Coords points="289,630 289,641 300,641 300,630"/>
+			<content>60</content>
+		</cell>
+		<cell id="22" start-col="4" start-row="3">
+			<Coords points="334,630 334,641 350,641 350,630"/>
+			<content>140</content>
+		</cell>
+		<cell id="23" start-col="5" start-row="3">
+			<Coords points="380,630 380,641 396,641 396,630"/>
+			<content>250</content>
+		</cell>
+		<cell id="24" start-col="0" start-row="4">
+			<Coords points="92,649 92,660 146,660 146,649"/>
+			<content>Valueadded</content>
+		</cell>
+		<cell id="25" start-col="1" start-row="4">
+			<Coords points="185,649 185,660 201,660 201,649"/>
+			<content>140</content>
+		</cell>
+		<cell id="26" start-col="2" start-row="4">
+			<Coords points="240,649 240,660 250,660 250,649"/>
+			<content>80</content>
+		</cell>
+		<cell id="27" start-col="3" start-row="4">
+			<Coords points="282,649 282,660 300,660 300,649"/>
+			<content>135</content>
+		</cell>
+		<cell id="28" start-col="4" start-row="4">
+			<Coords points="345,649 345,660 350,660 350,649"/>
+			<content>0</content>
+		</cell>
+		<cell id="29" start-col="5" start-row="4">
+			<Coords points="380,649 380,660 396,660 396,649"/>
+			<content>355</content>
+		</cell>
+		<cell id="30" start-col="0" start-row="5">
+			<Coords points="92,669 92,680 116,680 116,669"/>
+			<content>Input</content>
+		</cell>
+		<cell id="31" start-col="1" start-row="5">
+			<Coords points="185,669 185,680 201,680 201,669"/>
+			<content>210</content>
+		</cell>
+		<cell id="32" start-col="2" start-row="5">
+			<Coords points="234,669 234,680 250,680 250,669"/>
+			<content>230</content>
+		</cell>
+		<cell id="33" start-col="3" start-row="5">
+			<Coords points="282,669 282,680 300,680 300,669"/>
+			<content>220</content>
+		</cell>
+		<cell id="34" start-col="4" start-row="5">
+			<Coords points="334,669 334,680 350,680 350,669"/>
+			<content>355</content>
+		</cell>
+	</table>
+	<table id="4">
+		<Coords points="414,574 414,680 718,680 718,574"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="477,574 477,585 522,585 522,574"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="528,574 528,585 573,585 573,574"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="577,574 577,585 622,585 622,574"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="4" start-col="4" start-row="0">
+			<Coords points="628,574 628,585 673,585 673,574"/>
+			<content>Finaldem.</content>
+		</cell>
+		<cell id="5" start-col="5" start-row="0">
+			<Coords points="682,574 682,585 714,585 714,574"/>
+			<content>Output</content>
+		</cell>
+		<cell id="6" start-col="0" start-row="1">
+			<Coords points="414,593 414,604 458,604 458,593"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="7" start-col="1" start-row="1">
+			<Coords points="513,593 513,604 524,604 524,593"/>
+			<content>10</content>
+		</cell>
+		<cell id="8" start-col="2" start-row="1">
+			<Coords points="562,593 562,604 573,604 573,593"/>
+			<content>60</content>
+		</cell>
+		<cell id="9" start-col="3" start-row="1">
+			<Coords points="617,593 617,604 622,604 622,593"/>
+			<content>5</content>
+		</cell>
+		<cell id="10" start-col="4" start-row="1">
+			<Coords points="662,593 662,604 673,604 673,593"/>
+			<content>35</content>
+		</cell>
+		<cell id="11" start-col="5" start-row="1">
+			<Coords points="702,593 702,604 718,604 718,593"/>
+			<content>110</content>
+		</cell>
+		<cell id="12" start-col="0" start-row="2">
+			<Coords points="414,612 414,622 458,622 458,612"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="13" start-col="1" start-row="2">
+			<Coords points="513,612 513,622 524,622 524,612"/>
+			<content>40</content>
+		</cell>
+		<cell id="14" start-col="2" start-row="2">
+			<Coords points="562,612 562,622 573,622 573,612"/>
+			<content>60</content>
+		</cell>
+		<cell id="15" start-col="3" start-row="2">
+			<Coords points="612,612 612,622 622,622 622,612"/>
+			<content>20</content>
+		</cell>
+		<cell id="16" start-col="4" start-row="2">
+			<Coords points="657,612 657,622 673,622 673,612"/>
+			<content>180</content>
+		</cell>
+		<cell id="17" start-col="5" start-row="2">
+			<Coords points="702,612 702,622 718,622 718,612"/>
+			<content>300</content>
+		</cell>
+		<cell id="18" start-col="0" start-row="3">
+			<Coords points="414,630 414,641 458,641 458,630"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="19" start-col="1" start-row="3">
+			<Coords points="513,630 513,641 524,641 524,630"/>
+			<content>20</content>
+		</cell>
+		<cell id="20" start-col="2" start-row="3">
+			<Coords points="562,630 562,641 573,641 573,630"/>
+			<content>30</content>
+		</cell>
+		<cell id="21" start-col="3" start-row="3">
+			<Coords points="612,630 612,641 622,641 622,630"/>
+			<content>60</content>
+		</cell>
+		<cell id="22" start-col="4" start-row="3">
+			<Coords points="657,630 657,641 673,641 673,630"/>
+			<content>140</content>
+		</cell>
+		<cell id="23" start-col="5" start-row="3">
+			<Coords points="702,630 702,641 718,641 718,630"/>
+			<content>250</content>
+		</cell>
+		<cell id="24" start-col="0" start-row="4">
+			<Coords points="414,649 414,660 470,660 470,649"/>
+			<content>Valueadded</content>
+		</cell>
+		<cell id="25" start-col="1" start-row="4">
+			<Coords points="508,649 508,660 524,660 524,649"/>
+			<content>140</content>
+		</cell>
+		<cell id="26" start-col="2" start-row="4">
+			<Coords points="562,649 562,660 573,660 573,649"/>
+			<content>80</content>
+		</cell>
+		<cell id="27" start-col="3" start-row="4">
+			<Coords points="606,649 606,660 622,660 622,649"/>
+			<content>135</content>
+		</cell>
+		<cell id="28" start-col="4" start-row="4">
+			<Coords points="668,649 668,660 673,660 673,649"/>
+			<content>0</content>
+		</cell>
+		<cell id="29" start-col="5" start-row="4">
+			<Coords points="702,649 702,660 718,660 718,649"/>
+			<content>355</content>
+		</cell>
+		<cell id="30" start-col="0" start-row="5">
+			<Coords points="414,669 414,680 438,680 438,669"/>
+			<content>Input</content>
+		</cell>
+		<cell id="31" start-col="1" start-row="5">
+			<Coords points="508,669 508,680 524,680 524,669"/>
+			<content>210</content>
+		</cell>
+		<cell id="32" start-col="2" start-row="5">
+			<Coords points="557,669 557,680 573,680 573,669"/>
+			<content>230</content>
+		</cell>
+		<cell id="33" start-col="3" start-row="5">
+			<Coords points="606,669 606,680 622,680 622,669"/>
+			<content>220</content>
+		</cell>
+		<cell id="34" start-col="4" start-row="5">
+			<Coords points="657,669 657,680 673,680 673,669"/>
+			<content>355</content>
+		</cell>
+	</table>
+	<table id="5">
+		<Coords points="92,725 92,812 350,812 350,725"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="154,725 154,736 198,736 198,725"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="206,725 206,736 249,736 249,725"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="254,725 254,736 298,736 298,725"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="4" start-col="4" start-row="0">
+			<Coords points="316,725 316,736 337,736 337,725"/>
+			<content>Total</content>
+		</cell>
+		<cell id="5" start-col="0" start-row="1">
+			<Coords points="92,744 92,754 137,754 137,744"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="6" start-col="1" start-row="1">
+			<Coords points="190,744 190,754 201,754 201,744"/>
+			<content>90</content>
+		</cell>
+		<cell id="7" start-col="2" start-row="1">
+			<Coords points="240,744 240,754 250,754 250,744"/>
+			<content>70</content>
+		</cell>
+		<cell id="8" start-col="3" start-row="1">
+			<Coords points="289,744 289,754 300,754 300,744"/>
+			<content>50</content>
+		</cell>
+		<cell id="9" start-col="4" start-row="1">
+			<Coords points="334,744 334,754 350,754 350,744"/>
+			<content>210</content>
+		</cell>
+		<cell id="10" start-col="0" start-row="2">
+			<Coords points="92,764 92,774 137,774 137,764"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="11" start-col="1" start-row="2">
+			<Coords points="196,764 196,774 201,774 201,764"/>
+			<content>5</content>
+		</cell>
+		<cell id="12" start-col="2" start-row="2">
+			<Coords points="234,764 234,774 250,774 250,764"/>
+			<content>180</content>
+		</cell>
+		<cell id="13" start-col="3" start-row="2">
+			<Coords points="289,764 289,774 300,774 300,764"/>
+			<content>45</content>
+		</cell>
+		<cell id="14" start-col="4" start-row="2">
+			<Coords points="334,764 334,774 350,774 350,764"/>
+			<content>230</content>
+		</cell>
+		<cell id="15" start-col="0" start-row="3">
+			<Coords points="92,782 92,793 137,793 137,782"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="16" start-col="1" start-row="3">
+			<Coords points="190,782 190,793 201,793 201,782"/>
+			<content>15</content>
+		</cell>
+		<cell id="17" start-col="2" start-row="3">
+			<Coords points="240,782 240,793 250,793 250,782"/>
+			<content>50</content>
+		</cell>
+		<cell id="18" start-col="3" start-row="3">
+			<Coords points="282,782 282,793 300,793 300,782"/>
+			<content>155</content>
+		</cell>
+		<cell id="19" start-col="4" start-row="3">
+			<Coords points="334,782 334,793 350,793 350,782"/>
+			<content>220</content>
+		</cell>
+		<cell id="20" start-col="0" start-row="4">
+			<Coords points="92,801 92,812 113,812 113,801"/>
+			<content>Total</content>
+		</cell>
+		<cell id="21" start-col="1" start-row="4">
+			<Coords points="185,801 185,812 201,812 201,801"/>
+			<content>110</content>
+		</cell>
+		<cell id="22" start-col="2" start-row="4">
+			<Coords points="234,801 234,812 250,812 250,801"/>
+			<content>300</content>
+		</cell>
+		<cell id="23" start-col="3" start-row="4">
+			<Coords points="282,801 282,812 300,812 300,801"/>
+			<content>250</content>
+		</cell>
+		<cell id="24" start-col="4" start-row="4">
+			<Coords points="334,801 334,812 350,812 350,801"/>
+			<content>660</content>
+		</cell>
+	</table>
+	<table id="6">
+		<Coords points="414,725 414,812 673,812 673,725"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="478,725 478,736 521,736 521,725"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="529,725 529,736 572,736 572,725"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="578,725 578,736 621,736 621,725"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="4" start-col="4" start-row="0">
+			<Coords points="640,725 640,736 661,736 661,725"/>
+			<content>Total</content>
+		</cell>
+		<cell id="5" start-col="0" start-row="1">
+			<Coords points="414,744 414,754 461,754 461,744"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="6" start-col="1" start-row="1">
+			<Coords points="513,744 513,754 524,754 524,744"/>
+			<content>90</content>
+		</cell>
+		<cell id="7" start-col="2" start-row="1">
+			<Coords points="562,744 562,754 573,754 573,744"/>
+			<content>70</content>
+		</cell>
+		<cell id="8" start-col="3" start-row="1">
+			<Coords points="612,744 612,754 622,754 622,744"/>
+			<content>50</content>
+		</cell>
+		<cell id="9" start-col="4" start-row="1">
+			<Coords points="657,744 657,754 673,754 673,744"/>
+			<content>210</content>
+		</cell>
+		<cell id="10" start-col="0" start-row="2">
+			<Coords points="414,764 414,774 460,774 460,764"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="11" start-col="1" start-row="2">
+			<Coords points="518,764 518,774 524,774 524,764"/>
+			<content>5</content>
+		</cell>
+		<cell id="12" start-col="2" start-row="2">
+			<Coords points="557,764 557,774 573,774 573,764"/>
+			<content>180</content>
+		</cell>
+		<cell id="13" start-col="3" start-row="2">
+			<Coords points="612,764 612,774 622,774 622,764"/>
+			<content>45</content>
+		</cell>
+		<cell id="14" start-col="4" start-row="2">
+			<Coords points="657,764 657,774 673,774 673,764"/>
+			<content>230</content>
+		</cell>
+		<cell id="15" start-col="0" start-row="3">
+			<Coords points="414,782 414,793 460,793 460,782"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="16" start-col="1" start-row="3">
+			<Coords points="513,782 513,793 524,793 524,782"/>
+			<content>15</content>
+		</cell>
+		<cell id="17" start-col="2" start-row="3">
+			<Coords points="562,782 562,793 573,793 573,782"/>
+			<content>50</content>
+		</cell>
+		<cell id="18" start-col="3" start-row="3">
+			<Coords points="606,782 606,793 622,793 622,782"/>
+			<content>155</content>
+		</cell>
+		<cell id="19" start-col="4" start-row="3">
+			<Coords points="657,782 657,793 673,793 673,782"/>
+			<content>220</content>
+		</cell>
+		<cell id="20" start-col="0" start-row="4">
+			<Coords points="414,801 414,812 436,812 436,801"/>
+			<content>Total</content>
+		</cell>
+		<cell id="21" start-col="1" start-row="4">
+			<Coords points="508,801 508,812 524,812 524,801"/>
+			<content>110</content>
+		</cell>
+		<cell id="22" start-col="2" start-row="4">
+			<Coords points="557,801 557,812 573,812 573,801"/>
+			<content>300</content>
+		</cell>
+		<cell id="23" start-col="3" start-row="4">
+			<Coords points="606,801 606,812 622,812 622,801"/>
+			<content>250</content>
+		</cell>
+		<cell id="24" start-col="4" start-row="4">
+			<Coords points="657,801 657,812 673,812 673,801"/>
+			<content>660</content>
+		</cell>
+	</table>
+	<table id="7">
+		<Coords points="92,857 92,925 300,925 300,857"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="152,857 152,868 196,868 196,857"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="205,857 205,868 248,868 248,857"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="254,857 254,868 297,868 297,857"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="4" start-col="0" start-row="1">
+			<Coords points="92,877 92,888 137,888 137,877"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="5" start-col="1" start-row="1">
+			<Coords points="196,877 196,888 201,888 201,877"/>
+			<content>1</content>
+		</cell>
+		<cell id="6" start-col="2" start-row="1">
+			<Coords points="245,877 245,888 250,888 250,877"/>
+			<content>1</content>
+		</cell>
+		<cell id="7" start-col="3" start-row="1">
+			<Coords points="294,877 294,888 300,888 300,877"/>
+			<content>1</content>
+		</cell>
+		<cell id="8" start-col="0" start-row="2">
+			<Coords points="92,896 92,906 137,906 137,896"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="9" start-col="1" start-row="2">
+			<Coords points="196,896 196,906 201,906 201,896"/>
+			<content>1</content>
+		</cell>
+		<cell id="10" start-col="2" start-row="2">
+			<Coords points="245,896 245,906 250,906 250,896"/>
+			<content>1</content>
+		</cell>
+		<cell id="11" start-col="3" start-row="2">
+			<Coords points="294,896 294,906 300,906 300,896"/>
+			<content>1</content>
+		</cell>
+		<cell id="12" start-col="0" start-row="3">
+			<Coords points="92,914 92,925 137,925 137,914"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="13" start-col="1" start-row="3">
+			<Coords points="196,914 196,925 201,925 201,914"/>
+			<content>1</content>
+		</cell>
+		<cell id="14" start-col="2" start-row="3">
+			<Coords points="245,914 245,925 250,925 250,914"/>
+			<content>1</content>
+		</cell>
+		<cell id="15" start-col="3" start-row="3">
+			<Coords points="294,914 294,925 300,925 300,914"/>
+			<content>1</content>
+		</cell>
+	</table>
+	<table id="8">
+		<Coords points="414,857 414,925 622,925 622,857"/>
+		<cell id="1" start-col="1" start-row="0">
+			<Coords points="476,857 476,868 518,868 518,857"/>
+			<content>ProductA</content>
+		</cell>
+		<cell id="2" start-col="2" start-row="0">
+			<Coords points="528,857 528,868 572,868 572,857"/>
+			<content>ProductB</content>
+		</cell>
+		<cell id="3" start-col="3" start-row="0">
+			<Coords points="577,857 577,868 621,868 621,857"/>
+			<content>ProductC</content>
+		</cell>
+		<cell id="4" start-col="0" start-row="1">
+			<Coords points="414,877 414,888 461,888 461,877"/>
+			<content>IndustryA</content>
+		</cell>
+		<cell id="5" start-col="1" start-row="1">
+			<Coords points="518,877 518,888 524,888 524,877"/>
+			<content>1</content>
+		</cell>
+		<cell id="6" start-col="2" start-row="1">
+			<Coords points="568,877 568,888 573,888 573,877"/>
+			<content>0</content>
+		</cell>
+		<cell id="7" start-col="3" start-row="1">
+			<Coords points="617,877 617,888 622,888 622,877"/>
+			<content>0</content>
+		</cell>
+		<cell id="8" start-col="0" start-row="2">
+			<Coords points="414,896 414,906 460,906 460,896"/>
+			<content>IndustryB</content>
+		</cell>
+		<cell id="9" start-col="1" start-row="2">
+			<Coords points="518,896 518,906 524,906 524,896"/>
+			<content>1</content>
+		</cell>
+		<cell id="10" start-col="2" start-row="2">
+			<Coords points="568,896 568,906 573,906 573,896"/>
+			<content>1</content>
+		</cell>
+		<cell id="11" start-col="3" start-row="2">
+			<Coords points="617,896 617,906 622,906 622,896"/>
+			<content>0</content>
+		</cell>
+		<cell id="12" start-col="0" start-row="3">
+			<Coords points="414,914 414,925 460,925 460,914"/>
+			<content>IndustryC</content>
+		</cell>
+		<cell id="13" start-col="1" start-row="3">
+			<Coords points="518,914 518,925 524,925 524,914"/>
+			<content>1</content>
+		</cell>
+		<cell id="14" start-col="2" start-row="3">
+			<Coords points="568,914 568,925 573,925 573,914"/>
+			<content>1</content>
+		</cell>
+		<cell id="15" start-col="3" start-row="3">
+			<Coords points="617,914 617,925 622,925 622,914"/>
+			<content>1</content>
+		</cell>
+	</table>
+</document>

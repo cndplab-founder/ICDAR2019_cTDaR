@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document filename="cTDaR_t00506.jpg">
+  <table>
+    <Coords points="-5,546 5233,546 5233,2816 -5,2816"/>
+    <cell start-row="0" end-row="0" start-col="0" end-col="0">
+      <Coords points="5,553 6,810 250,817 252,562"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="0" end-col="0">
+      <Coords points="6,810 17,2738 223,2752 250,817"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="1" end-col="1">
+      <Coords points="252,562 250,817 2593,851 2604,587 2060,583 1056,574"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="1" end-col="1">
+      <Coords points="250,817 223,2752 513,2766 1182,2775 2535,2793 2542,2792 2593,851"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="2" end-col="2">
+      <Coords points="2604,587 2593,851 2945,856 2950,587"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="2" end-col="2">
+      <Coords points="2593,851 2542,2792 2876,2792 2918,1684 2932,1378 2938,1080 2945,856"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="3" end-col="3">
+      <Coords points="2950,587 2945,856 3209,860 3217,593"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="3" end-col="3">
+      <Coords points="2945,856 2938,1080 2932,1378 2918,1684 2876,2792 3152,2793 3209,860"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="4" end-col="4">
+      <Coords points="3217,593 3209,860 3530,863 3534,596"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="4" end-col="4">
+      <Coords points="3209,860 3152,2793 3459,2797 3483,2020 3530,863"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="5" end-col="5">
+      <Coords points="3534,596 3530,863 4159,867 4166,604"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="5" end-col="5">
+      <Coords points="3530,863 3483,2020 3459,2797 3950,2801 4084,2804 4159,867"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="6" end-col="6">
+      <Coords points="4166,604 4159,867 5238,876 5239,614"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="6" end-col="6">
+      <Coords points="4159,867 4084,2804 5233,2816 5238,876"/>
+    </cell>
+  </table>
+</document>

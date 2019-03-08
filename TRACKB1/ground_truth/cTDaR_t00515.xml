@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document filename="cTDaR_t00515.jpg">
+  <table>
+    <Coords points="12,817 5261,817 5261,2297 12,2297"/>
+    <cell start-row="0" end-row="0" start-col="0" end-col="0">
+      <Coords points="12,821 11,1240 230,1241 234,821"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="1" end-col="1">
+      <Coords points="234,821 230,1241 1340,1243 1342,830"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="2" end-col="2">
+      <Coords points="1342,830 1340,1243 2369,1251 2371,840"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="3" end-col="3">
+      <Coords points="2371,840 2369,1251 3407,1261 3407,845"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="4" end-col="4">
+      <Coords points="3407,845 3407,1261 3889,1268 3888,849"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="5" end-col="5">
+      <Coords points="3888,849 3889,1268 5261,1276 5260,862"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="0" end-col="0">
+      <Coords points="11,1240 11,2272 226,2273 230,1241"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="1" end-col="1">
+      <Coords points="230,1241 226,2273 1338,2280 1340,1243"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="2" end-col="2">
+      <Coords points="1340,1243 1338,2280 2371,2283 2369,1251"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="3" end-col="3">
+      <Coords points="2369,1251 2371,2283 3407,2288 3407,1261"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="4" end-col="4">
+      <Coords points="3407,1261 3407,2288 3889,2295 3889,1268"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="5" end-col="5">
+      <Coords points="3889,1268 3889,2295 5259,2306 5261,1276"/>
+    </cell>
+  </table>
+</document>

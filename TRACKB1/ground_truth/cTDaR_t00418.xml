@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document filename="cTDaR_t00418.jpg">
+  <table>
+    <Coords points="72,225 2724,225 2724,4607 72,4607"/>
+    <cell start-row="0" end-row="0" start-col="0" end-col="0">
+      <Coords points="69,222 72,435 226,436 228,222"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="1" end-col="1">
+      <Coords points="228,222 226,436 2218,422 2220,225"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="2" end-col="2">
+      <Coords points="2220,225 2218,422 2378,421 2380,225"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="3" end-col="3">
+      <Coords points="2380,225 2378,421 2550,418 2548,225"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="4" end-col="4">
+      <Coords points="2548,225 2550,418 2726,423 2724,225"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="0" end-col="0">
+      <Coords points="72,435 75,724 229,723 226,436"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="0" end-col="0">
+      <Coords points="75,724 126,4609 272,4609 229,723"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="1" end-col="1">
+      <Coords points="226,436 229,723 2215,732 2218,422"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="1" end-col="1">
+      <Coords points="229,723 272,4609 2184,4605 2215,732"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="2" end-col="2">
+      <Coords points="2218,422 2215,732 2377,740 2378,421"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="2" end-col="2">
+      <Coords points="2215,732 2184,4605 2367,4606 2377,740"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="3" end-col="3">
+      <Coords points="2378,421 2377,740 2551,749 2550,418"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="3" end-col="3">
+      <Coords points="2377,740 2367,4606 2567,4607 2551,749"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="4" end-col="4">
+      <Coords points="2550,418 2551,749 2725,758 2726,423"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="4" end-col="4">
+      <Coords points="2551,749 2567,4607 2724,4607 2725,758"/>
+    </cell>
+  </table>
+</document>

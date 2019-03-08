@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document filename="cTDaR_t00057.jpg">
+  <table>
+    <Coords points="204,102 2437,102 2437,3736 204,3736"/>
+    <cell start-row="0" end-row="0" start-col="0" end-col="0">
+      <Coords points="204,89 204,801 586,801 588,97"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="1" end-col="1">
+      <Coords points="588,97 586,801 2041,801 2058,106"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="2" end-col="2">
+      <Coords points="2058,106 2041,801 2464,801 2464,96"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="0" end-col="0">
+      <Coords points="204,801 204,1555 587,1557 586,801"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="1" end-col="1">
+      <Coords points="586,801 587,1557 2024,1557 2041,801"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="2" end-col="2">
+      <Coords points="2041,801 2024,1557 2464,1555 2464,801"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="0" end-col="0">
+      <Coords points="204,1555 204,2242 582,2242 587,1557"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="1" end-col="1">
+      <Coords points="587,1557 582,2242 2019,2240 2024,1557"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="2" end-col="2">
+      <Coords points="2024,1557 2019,2240 2464,2242 2464,1555"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="0" end-col="0">
+      <Coords points="204,2242 204,2919 580,2919 582,2242"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="0" end-col="0">
+      <Coords points="204,2919 204,3723 579,3728 580,2919"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="1" end-col="1">
+      <Coords points="582,2242 580,2919 2001,2921 2019,2240"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="1" end-col="1">
+      <Coords points="580,2919 579,3728 2003,3735 2001,2921"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="2" end-col="2">
+      <Coords points="2019,2240 2001,2921 2464,2919 2464,2242"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="2" end-col="2">
+      <Coords points="2001,2921 2003,3735 2464,3730 2464,2919"/>
+    </cell>
+  </table>
+</document>

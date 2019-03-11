@@ -5,6 +5,6 @@ Official website: http://sac.founderit.com/index.html
 
 Dataset/Training Dataset
 
-Notice: 
+Important Note: 
 1. For the modern dataset no training data is available for Track B. Note that the modern dataset has a different annotation (Bounding box of the content describes a cell region in contrast to the historical dataset whereas a cell region is described by the cell area) and thus a different requested output. 
 2. Samples from the modern dataset have the prefix "cTDaR_t1" and samples from the historical dataset start with "cTDaR_t0". 

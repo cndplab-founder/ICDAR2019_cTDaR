@@ -4,39 +4,30 @@
 		<Coords points="62,796 62,885 587,885 587,796"/>
 		<cell end-col="2" id="1" start-col="0" start-row="0">
 			<Coords points="352,808 352,823 527,823 527,808"/>
-			<content>Electronic Identity Management</content>
 		</cell>
 		<cell id="2" start-col="1" start-row="1">
 			<Coords points="352,828 352,840 378,840 378,828"/>
-			<content>2012</content>
 		</cell>
 		<cell id="3" start-col="2" start-row="1">
 			<Coords points="500,828 500,840 526,840 526,828"/>
-			<content>2014</content>
 		</cell>
 		<cell id="4" start-col="0" start-row="2">
 			<Coords points="68,848 68,860 181,860 181,848"/>
-			<content>Number of countries</content>
 		</cell>
 		<cell id="5" start-col="1" start-row="2">
 			<Coords points="358,848 358,860 372,860 372,848"/>
-			<content>52</content>
 		</cell>
 		<cell id="6" start-col="2" start-row="2">
 			<Coords points="506,848 506,860 520,860 520,848"/>
-			<content>69</content>
 		</cell>
 		<cell id="7" start-col="0" start-row="3">
 			<Coords points="68,868 68,880 174,880 174,868"/>
-			<content>Global per centage</content>
 		</cell>
 		<cell id="8" start-col="1" start-row="3">
 			<Coords points="353,868 353,880 377,880 377,868"/>
-			<content>27%</content>
 		</cell>
 		<cell id="9" start-col="2" start-row="3">
 			<Coords points="501,868 501,880 525,880 525,868"/>
-			<content>36%</content>
 		</cell>
 	</table>
 </document>

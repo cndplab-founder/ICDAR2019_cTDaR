@@ -3,7 +3,6 @@ The ICDAR 2019 cTDaR is to evaluate the performance of methods for table detecti
 
 Official website: http://sac.founderit.com/index.html
 
-Dataset/Training Dataset
 
 Important Note: 
 1. For the modern dataset no training data is available for Track B. Note that the modern dataset has a different annotation (Bounding box of the content describes a cell region in contrast to the historical dataset whereas a cell region is described by the cell area) and thus a different requested output. 

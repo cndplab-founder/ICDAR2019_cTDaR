@@ -1,0 +1,780 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document filename="cTDaR_t00754.jpg">
+  <table>
+    <Coords points="346,428 1044,424 1044,1039 351,1037"/>
+    <cell start-row="0" end-row="0" start-col="0" end-col="0">
+      <Coords points="347,428 347,466 426,466 426,426"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="0" end-col="0">
+      <Coords points="347,466 347,512 426,512 426,466"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="1" end-col="1">
+      <Coords points="426,426 426,466 478,466 478,426"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="1" end-col="1">
+      <Coords points="426,466 426,512 478,512 478,466"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="2" end-col="2">
+      <Coords points="478,426 478,466 870,466 870,426"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="2" end-col="2">
+      <Coords points="478,466 478,512 870,510 870,466"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="3" end-col="3">
+      <Coords points="870,426 870,466 938,466 938,425"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="3" end-col="3">
+      <Coords points="870,466 870,510 938,510 938,466"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="4" end-col="4">
+      <Coords points="938,425 938,466 986,466 986,424"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="4" end-col="4">
+      <Coords points="938,466 938,510 986,510 986,466"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="5" end-col="5">
+      <Coords points="986,424 986,466 1045,466 1045,425"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="5" end-col="5">
+      <Coords points="986,466 986,510 1045,510 1045,466"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="0" end-col="0">
+      <Coords points="347,512 347,572 426,572 426,512"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="1" end-col="1">
+      <Coords points="426,512 426,572 478,572 478,512"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="2" end-col="2">
+      <Coords points="478,512 478,572 870,572 870,510"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="3" end-col="3">
+      <Coords points="870,510 870,572 938,572 938,510"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="4" end-col="4">
+      <Coords points="938,510 938,572 986,572 986,510"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="5" end-col="5">
+      <Coords points="986,510 986,572 1045,572 1045,510"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="0" end-col="0">
+      <Coords points="347,572 349,1037 428,1037 426,572"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="1" end-col="1">
+      <Coords points="426,572 428,1037 479,1037 478,572"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="2" end-col="2">
+      <Coords points="478,572 479,1037 875,1039 870,572"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="3" end-col="3">
+      <Coords points="870,572 875,1039 943,1039 938,572"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="4" end-col="4">
+      <Coords points="938,572 943,1039 990,1039 986,572"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="5" end-col="5">
+      <Coords points="986,572 990,1039 1052,1041 1045,572"/>
+    </cell>
+  </table>
+  <table>
+    <Coords points="1052,426 1752,421 1770,2586 1067,2583"/>
+    <cell start-row="0" end-row="0" start-col="0" end-col="0">
+      <Coords points="1051,428 1051,463 1138,463 1138,424"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="1" end-col="1">
+      <Coords points="1138,424 1138,463 1187,462 1187,423"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="2" end-col="2">
+      <Coords points="1187,423 1187,462 1579,458 1579,424"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="3" end-col="3">
+      <Coords points="1579,424 1579,458 1644,458 1644,423"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="4" end-col="4">
+      <Coords points="1644,423 1644,458 1690,457 1690,423"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="5" end-col="5">
+      <Coords points="1690,423 1690,457 1751,457 1751,423"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="0" end-col="0">
+      <Coords points="1051,463 1051,514 1138,513 1138,463"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="1" end-col="1">
+      <Coords points="1138,463 1138,513 1187,512 1187,462"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="2" end-col="2">
+      <Coords points="1187,462 1187,512 1579,506 1579,458"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="3" end-col="3">
+      <Coords points="1579,458 1579,506 1644,505 1644,458"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="4" end-col="4">
+      <Coords points="1644,458 1644,505 1690,505 1690,457"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="5" end-col="5">
+      <Coords points="1690,457 1690,505 1751,504 1751,457"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="0" end-col="0">
+      <Coords points="1051,514 1051,568 1138,568 1138,513"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="1" end-col="1">
+      <Coords points="1138,513 1138,568 1187,568 1187,512"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="2" end-col="2">
+      <Coords points="1187,512 1187,568 1579,568 1579,506"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="3" end-col="3">
+      <Coords points="1579,506 1579,568 1644,568 1644,505"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="4" end-col="4">
+      <Coords points="1644,505 1644,568 1690,568 1690,505"/>
+    </cell>
+    <cell start-row="2" end-row="2" start-col="5" end-col="5">
+      <Coords points="1690,505 1690,568 1751,568 1751,504"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="0" end-col="0">
+      <Coords points="1051,568 1051,622 1138,622 1138,568"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="1" end-col="1">
+      <Coords points="1138,568 1138,622 1187,622 1187,568"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="2" end-col="2">
+      <Coords points="1187,568 1187,622 1579,624 1579,568"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="3" end-col="3">
+      <Coords points="1579,568 1579,624 1644,625 1644,568"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="4" end-col="4">
+      <Coords points="1644,568 1644,625 1690,625 1690,568"/>
+    </cell>
+    <cell start-row="3" end-row="3" start-col="5" end-col="5">
+      <Coords points="1690,568 1690,625 1751,625 1751,568"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="0" end-col="0">
+      <Coords points="1051,622 1051,681 1138,681 1138,622"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="1" end-col="1">
+      <Coords points="1138,622 1138,681 1187,681 1187,622"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="2" end-col="2">
+      <Coords points="1187,622 1187,681 1579,683 1579,624"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="3" end-col="3">
+      <Coords points="1579,624 1579,683 1644,683 1644,625"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="4" end-col="4">
+      <Coords points="1644,625 1644,683 1690,683 1690,625"/>
+    </cell>
+    <cell start-row="4" end-row="4" start-col="5" end-col="5">
+      <Coords points="1690,625 1690,683 1751,683 1751,625"/>
+    </cell>
+    <cell start-row="5" end-row="5" start-col="0" end-col="0">
+      <Coords points="1051,681 1051,736 1138,736 1138,681"/>
+    </cell>
+    <cell start-row="5" end-row="5" start-col="1" end-col="1">
+      <Coords points="1138,681 1138,736 1188,736 1187,681"/>
+    </cell>
+    <cell start-row="5" end-row="5" start-col="2" end-col="2">
+      <Coords points="1187,681 1188,736 1579,734 1579,683"/>
+    </cell>
+    <cell start-row="5" end-row="5" start-col="3" end-col="3">
+      <Coords points="1579,683 1579,734 1644,734 1644,683"/>
+    </cell>
+    <cell start-row="5" end-row="5" start-col="4" end-col="4">
+      <Coords points="1644,683 1644,734 1690,734 1690,683"/>
+    </cell>
+    <cell start-row="5" end-row="5" start-col="5" end-col="5">
+      <Coords points="1690,683 1690,734 1751,734 1751,683"/>
+    </cell>
+    <cell start-row="6" end-row="6" start-col="0" end-col="0">
+      <Coords points="1051,736 1052,796 1138,796 1138,736"/>
+    </cell>
+    <cell start-row="6" end-row="6" start-col="1" end-col="1">
+      <Coords points="1138,736 1138,796 1189,796 1188,736"/>
+    </cell>
+    <cell start-row="6" end-row="6" start-col="2" end-col="2">
+      <Coords points="1188,736 1189,796 1579,794 1579,734"/>
+    </cell>
+    <cell start-row="6" end-row="6" start-col="3" end-col="3">
+      <Coords points="1579,734 1579,794 1644,794 1644,734"/>
+    </cell>
+    <cell start-row="6" end-row="6" start-col="4" end-col="4">
+      <Coords points="1644,734 1644,794 1690,794 1690,734"/>
+    </cell>
+    <cell start-row="6" end-row="6" start-col="5" end-col="5">
+      <Coords points="1690,734 1690,794 1751,794 1751,734"/>
+    </cell>
+    <cell start-row="7" end-row="7" start-col="0" end-col="0">
+      <Coords points="1052,796 1053,852 1138,852 1138,796"/>
+    </cell>
+    <cell start-row="7" end-row="7" start-col="1" end-col="1">
+      <Coords points="1138,796 1138,852 1190,852 1189,796"/>
+    </cell>
+    <cell start-row="7" end-row="7" start-col="2" end-col="2">
+      <Coords points="1189,796 1190,852 1579,850 1579,794"/>
+    </cell>
+    <cell start-row="7" end-row="7" start-col="3" end-col="3">
+      <Coords points="1579,794 1579,850 1645,849 1644,794"/>
+    </cell>
+    <cell start-row="7" end-row="7" start-col="4" end-col="4">
+      <Coords points="1644,794 1645,849 1691,849 1690,794"/>
+    </cell>
+    <cell start-row="7" end-row="7" start-col="5" end-col="5">
+      <Coords points="1690,794 1691,849 1752,849 1751,794"/>
+    </cell>
+    <cell start-row="8" end-row="8" start-col="0" end-col="0">
+      <Coords points="1053,852 1054,911 1138,911 1138,852"/>
+    </cell>
+    <cell start-row="8" end-row="8" start-col="1" end-col="1">
+      <Coords points="1138,852 1138,911 1191,911 1190,852"/>
+    </cell>
+    <cell start-row="8" end-row="8" start-col="2" end-col="2">
+      <Coords points="1190,852 1191,911 1580,911 1579,850"/>
+    </cell>
+    <cell start-row="8" end-row="8" start-col="3" end-col="3">
+      <Coords points="1579,850 1580,911 1646,911 1645,849"/>
+    </cell>
+    <cell start-row="8" end-row="8" start-col="4" end-col="4">
+      <Coords points="1645,849 1646,911 1692,911 1691,849"/>
+    </cell>
+    <cell start-row="8" end-row="8" start-col="5" end-col="5">
+      <Coords points="1691,849 1692,911 1753,911 1752,849"/>
+    </cell>
+    <cell start-row="9" end-row="9" start-col="0" end-col="0">
+      <Coords points="1054,911 1055,956 1139,955 1138,911"/>
+    </cell>
+    <cell start-row="9" end-row="9" start-col="1" end-col="1">
+      <Coords points="1138,911 1139,955 1192,955 1191,911"/>
+    </cell>
+    <cell start-row="9" end-row="9" start-col="2" end-col="2">
+      <Coords points="1191,911 1192,955 1581,954 1580,911"/>
+    </cell>
+    <cell start-row="9" end-row="9" start-col="3" end-col="3">
+      <Coords points="1580,911 1581,954 1647,956 1646,911"/>
+    </cell>
+    <cell start-row="9" end-row="9" start-col="4" end-col="4">
+      <Coords points="1646,911 1647,956 1693,956 1692,911"/>
+    </cell>
+    <cell start-row="9" end-row="9" start-col="5" end-col="5">
+      <Coords points="1692,911 1693,956 1754,956 1753,911"/>
+    </cell>
+    <cell start-row="10" end-row="10" start-col="0" end-col="0">
+      <Coords points="1055,956 1056,1022 1139,1022 1139,955"/>
+    </cell>
+    <cell start-row="10" end-row="10" start-col="1" end-col="1">
+      <Coords points="1139,955 1139,1022 1190,1022 1192,955"/>
+    </cell>
+    <cell start-row="10" end-row="10" start-col="2" end-col="2">
+      <Coords points="1192,955 1190,1022 1582,1022 1581,954"/>
+    </cell>
+    <cell start-row="10" end-row="10" start-col="3" end-col="3">
+      <Coords points="1581,954 1582,1022 1647,1022 1647,956"/>
+    </cell>
+    <cell start-row="10" end-row="10" start-col="4" end-col="4">
+      <Coords points="1647,956 1647,1022 1693,1022 1693,956"/>
+    </cell>
+    <cell start-row="10" end-row="10" start-col="5" end-col="5">
+      <Coords points="1693,956 1693,1022 1754,1022 1754,956"/>
+    </cell>
+    <cell start-row="11" end-row="11" start-col="0" end-col="0">
+      <Coords points="1056,1022 1057,1070 1140,1069 1139,1022"/>
+    </cell>
+    <cell start-row="11" end-row="11" start-col="1" end-col="1">
+      <Coords points="1139,1022 1140,1069 1190,1069 1190,1022"/>
+    </cell>
+    <cell start-row="11" end-row="11" start-col="2" end-col="2">
+      <Coords points="1190,1022 1190,1069 1583,1070 1582,1022"/>
+    </cell>
+    <cell start-row="11" end-row="11" start-col="3" end-col="3">
+      <Coords points="1582,1022 1583,1070 1647,1069 1647,1022"/>
+    </cell>
+    <cell start-row="11" end-row="11" start-col="4" end-col="4">
+      <Coords points="1647,1022 1647,1069 1693,1069 1693,1022"/>
+    </cell>
+    <cell start-row="11" end-row="11" start-col="5" end-col="5">
+      <Coords points="1693,1022 1693,1069 1754,1069 1754,1022"/>
+    </cell>
+    <cell start-row="12" end-row="12" start-col="0" end-col="0">
+      <Coords points="1057,1070 1058,1136 1140,1136 1140,1069"/>
+    </cell>
+    <cell start-row="12" end-row="12" start-col="1" end-col="1">
+      <Coords points="1140,1069 1140,1136 1192,1136 1190,1069"/>
+    </cell>
+    <cell start-row="12" end-row="12" start-col="2" end-col="2">
+      <Coords points="1190,1069 1192,1136 1583,1137 1583,1070"/>
+    </cell>
+    <cell start-row="12" end-row="12" start-col="3" end-col="3">
+      <Coords points="1583,1070 1583,1137 1647,1137 1647,1069"/>
+    </cell>
+    <cell start-row="12" end-row="12" start-col="4" end-col="4">
+      <Coords points="1647,1069 1647,1137 1693,1137 1693,1069"/>
+    </cell>
+    <cell start-row="12" end-row="12" start-col="5" end-col="5">
+      <Coords points="1693,1069 1693,1137 1754,1137 1754,1069"/>
+    </cell>
+    <cell start-row="13" end-row="13" start-col="0" end-col="0">
+      <Coords points="1058,1136 1059,1188 1140,1186 1140,1136"/>
+    </cell>
+    <cell start-row="13" end-row="13" start-col="1" end-col="1">
+      <Coords points="1140,1136 1140,1186 1194,1186 1192,1136"/>
+    </cell>
+    <cell start-row="13" end-row="13" start-col="2" end-col="2">
+      <Coords points="1192,1136 1194,1186 1584,1185 1583,1137"/>
+    </cell>
+    <cell start-row="13" end-row="13" start-col="3" end-col="3">
+      <Coords points="1583,1137 1584,1185 1647,1185 1647,1137"/>
+    </cell>
+    <cell start-row="13" end-row="13" start-col="4" end-col="4">
+      <Coords points="1647,1137 1647,1185 1693,1185 1693,1137"/>
+    </cell>
+    <cell start-row="13" end-row="13" start-col="5" end-col="5">
+      <Coords points="1693,1137 1693,1185 1754,1185 1754,1137"/>
+    </cell>
+    <cell start-row="14" end-row="14" start-col="0" end-col="0">
+      <Coords points="1059,1188 1058,1244 1141,1243 1140,1186"/>
+    </cell>
+    <cell start-row="14" end-row="14" start-col="1" end-col="1">
+      <Coords points="1140,1186 1141,1243 1193,1243 1194,1186"/>
+    </cell>
+    <cell start-row="14" end-row="14" start-col="2" end-col="2">
+      <Coords points="1194,1186 1193,1243 1584,1243 1584,1185"/>
+    </cell>
+    <cell start-row="14" end-row="14" start-col="3" end-col="3">
+      <Coords points="1584,1185 1584,1243 1647,1243 1647,1185"/>
+    </cell>
+    <cell start-row="14" end-row="14" start-col="4" end-col="4">
+      <Coords points="1647,1185 1647,1243 1693,1243 1693,1185"/>
+    </cell>
+    <cell start-row="14" end-row="14" start-col="5" end-col="5">
+      <Coords points="1693,1185 1693,1243 1754,1243 1754,1185"/>
+    </cell>
+    <cell start-row="15" end-row="15" start-col="0" end-col="0">
+      <Coords points="1058,1244 1058,1320 1141,1328 1141,1243"/>
+    </cell>
+    <cell start-row="15" end-row="15" start-col="1" end-col="1">
+      <Coords points="1141,1243 1141,1328 1193,1312 1193,1243"/>
+    </cell>
+    <cell start-row="15" end-row="15" start-col="2" end-col="2">
+      <Coords points="1193,1243 1193,1312 1583,1308 1584,1243"/>
+    </cell>
+    <cell start-row="15" end-row="15" start-col="3" end-col="3">
+      <Coords points="1584,1243 1583,1308 1647,1308 1647,1243"/>
+    </cell>
+    <cell start-row="15" end-row="15" start-col="4" end-col="4">
+      <Coords points="1647,1243 1647,1308 1693,1307 1693,1243"/>
+    </cell>
+    <cell start-row="15" end-row="15" start-col="5" end-col="5">
+      <Coords points="1693,1243 1693,1307 1754,1307 1754,1243"/>
+    </cell>
+    <cell start-row="16" end-row="16" start-col="0" end-col="0">
+      <Coords points="1058,1320 1058,1370 1141,1370 1141,1328"/>
+    </cell>
+    <cell start-row="16" end-row="16" start-col="1" end-col="1">
+      <Coords points="1141,1328 1141,1370 1193,1369 1193,1312"/>
+    </cell>
+    <cell start-row="16" end-row="16" start-col="2" end-col="2">
+      <Coords points="1193,1312 1193,1369 1582,1366 1583,1308"/>
+    </cell>
+    <cell start-row="16" end-row="16" start-col="3" end-col="3">
+      <Coords points="1583,1308 1582,1366 1647,1366 1647,1308"/>
+    </cell>
+    <cell start-row="16" end-row="16" start-col="4" end-col="4">
+      <Coords points="1647,1308 1647,1366 1693,1365 1693,1307"/>
+    </cell>
+    <cell start-row="16" end-row="16" start-col="5" end-col="5">
+      <Coords points="1693,1307 1693,1365 1754,1365 1754,1307"/>
+    </cell>
+    <cell start-row="17" end-row="17" start-col="0" end-col="0">
+      <Coords points="1058,1370 1058,1416 1142,1416 1141,1370"/>
+    </cell>
+    <cell start-row="17" end-row="17" start-col="1" end-col="1">
+      <Coords points="1141,1370 1142,1416 1193,1417 1193,1369"/>
+    </cell>
+    <cell start-row="17" end-row="17" start-col="2" end-col="2">
+      <Coords points="1193,1369 1193,1417 1582,1415 1582,1366"/>
+    </cell>
+    <cell start-row="17" end-row="17" start-col="3" end-col="3">
+      <Coords points="1582,1366 1582,1415 1648,1417 1647,1366"/>
+    </cell>
+    <cell start-row="17" end-row="17" start-col="4" end-col="4">
+      <Coords points="1647,1366 1648,1417 1694,1417 1693,1365"/>
+    </cell>
+    <cell start-row="17" end-row="17" start-col="5" end-col="5">
+      <Coords points="1693,1365 1694,1417 1755,1417 1754,1365"/>
+    </cell>
+    <cell start-row="18" end-row="18" start-col="0" end-col="0">
+      <Coords points="1058,1416 1059,1486 1142,1486 1142,1416"/>
+    </cell>
+    <cell start-row="18" end-row="18" start-col="1" end-col="1">
+      <Coords points="1142,1416 1142,1486 1193,1486 1193,1417"/>
+    </cell>
+    <cell start-row="18" end-row="18" start-col="2" end-col="2">
+      <Coords points="1193,1417 1193,1486 1583,1486 1582,1415"/>
+    </cell>
+    <cell start-row="18" end-row="18" start-col="3" end-col="3">
+      <Coords points="1582,1415 1583,1486 1648,1486 1648,1417"/>
+    </cell>
+    <cell start-row="18" end-row="18" start-col="4" end-col="4">
+      <Coords points="1648,1417 1648,1486 1694,1486 1694,1417"/>
+    </cell>
+    <cell start-row="18" end-row="18" start-col="5" end-col="5">
+      <Coords points="1694,1417 1694,1486 1755,1486 1755,1417"/>
+    </cell>
+    <cell start-row="19" end-row="19" start-col="0" end-col="0">
+      <Coords points="1059,1486 1059,1536 1142,1536 1142,1486"/>
+    </cell>
+    <cell start-row="19" end-row="19" start-col="1" end-col="1">
+      <Coords points="1142,1486 1142,1536 1193,1537 1193,1486"/>
+    </cell>
+    <cell start-row="19" end-row="19" start-col="2" end-col="2">
+      <Coords points="1193,1486 1193,1537 1584,1541 1583,1486"/>
+    </cell>
+    <cell start-row="19" end-row="19" start-col="3" end-col="3">
+      <Coords points="1583,1486 1584,1541 1648,1541 1648,1486"/>
+    </cell>
+    <cell start-row="19" end-row="19" start-col="4" end-col="4">
+      <Coords points="1648,1486 1648,1541 1694,1542 1694,1486"/>
+    </cell>
+    <cell start-row="19" end-row="19" start-col="5" end-col="5">
+      <Coords points="1694,1486 1694,1542 1755,1542 1755,1486"/>
+    </cell>
+    <cell start-row="20" end-row="20" start-col="0" end-col="0">
+      <Coords points="1059,1536 1061,1589 1143,1587 1142,1536"/>
+    </cell>
+    <cell start-row="20" end-row="20" start-col="1" end-col="1">
+      <Coords points="1142,1536 1143,1587 1194,1587 1193,1537"/>
+    </cell>
+    <cell start-row="20" end-row="20" start-col="2" end-col="2">
+      <Coords points="1193,1537 1194,1587 1585,1585 1584,1541"/>
+    </cell>
+    <cell start-row="20" end-row="20" start-col="3" end-col="3">
+      <Coords points="1584,1541 1585,1585 1649,1586 1648,1541"/>
+    </cell>
+    <cell start-row="20" end-row="20" start-col="4" end-col="4">
+      <Coords points="1648,1541 1649,1586 1695,1586 1694,1542"/>
+    </cell>
+    <cell start-row="20" end-row="20" start-col="5" end-col="5">
+      <Coords points="1694,1542 1695,1586 1756,1586 1755,1542"/>
+    </cell>
+    <cell start-row="21" end-row="21" start-col="0" end-col="0">
+      <Coords points="1061,1589 1061,1657 1143,1656 1143,1587"/>
+    </cell>
+    <cell start-row="21" end-row="21" start-col="1" end-col="1">
+      <Coords points="1143,1587 1143,1656 1194,1656 1194,1587"/>
+    </cell>
+    <cell start-row="21" end-row="21" start-col="2" end-col="2">
+      <Coords points="1194,1587 1194,1656 1586,1650 1585,1585"/>
+    </cell>
+    <cell start-row="21" end-row="21" start-col="3" end-col="3">
+      <Coords points="1585,1585 1586,1650 1650,1649 1649,1586"/>
+    </cell>
+    <cell start-row="21" end-row="21" start-col="4" end-col="4">
+      <Coords points="1649,1586 1650,1649 1697,1649 1695,1586"/>
+    </cell>
+    <cell start-row="21" end-row="21" start-col="5" end-col="5">
+      <Coords points="1695,1586 1697,1649 1756,1648 1756,1586"/>
+    </cell>
+    <cell start-row="22" end-row="22" start-col="0" end-col="0">
+      <Coords points="1061,1657 1061,1703 1144,1701 1143,1656"/>
+    </cell>
+    <cell start-row="22" end-row="22" start-col="1" end-col="1">
+      <Coords points="1143,1656 1144,1701 1195,1700 1194,1656"/>
+    </cell>
+    <cell start-row="22" end-row="22" start-col="2" end-col="2">
+      <Coords points="1194,1656 1195,1700 1587,1702 1586,1650"/>
+    </cell>
+    <cell start-row="22" end-row="22" start-col="3" end-col="3">
+      <Coords points="1586,1650 1587,1702 1651,1699 1650,1649"/>
+    </cell>
+    <cell start-row="22" end-row="22" start-col="4" end-col="4">
+      <Coords points="1650,1649 1651,1699 1699,1701 1697,1649"/>
+    </cell>
+    <cell start-row="22" end-row="22" start-col="5" end-col="5">
+      <Coords points="1697,1649 1699,1701 1757,1701 1756,1648"/>
+    </cell>
+    <cell start-row="23" end-row="23" start-col="0" end-col="0">
+      <Coords points="1061,1703 1062,1787 1144,1787 1144,1701"/>
+    </cell>
+    <cell start-row="23" end-row="23" start-col="1" end-col="1">
+      <Coords points="1144,1701 1144,1787 1195,1772 1195,1700"/>
+    </cell>
+    <cell start-row="23" end-row="23" start-col="2" end-col="2">
+      <Coords points="1195,1700 1195,1772 1587,1772 1587,1702"/>
+    </cell>
+    <cell start-row="23" end-row="23" start-col="3" end-col="3">
+      <Coords points="1587,1702 1587,1772 1652,1773 1651,1699"/>
+    </cell>
+    <cell start-row="23" end-row="23" start-col="4" end-col="4">
+      <Coords points="1651,1699 1652,1773 1699,1773 1699,1701"/>
+    </cell>
+    <cell start-row="23" end-row="23" start-col="5" end-col="5">
+      <Coords points="1699,1701 1699,1773 1757,1773 1757,1701"/>
+    </cell>
+    <cell start-row="24" end-row="24" start-col="0" end-col="0">
+      <Coords points="1062,1787 1063,1830 1144,1830 1144,1787"/>
+    </cell>
+    <cell start-row="24" end-row="24" start-col="1" end-col="1">
+      <Coords points="1144,1787 1144,1830 1195,1830 1195,1772"/>
+    </cell>
+    <cell start-row="24" end-row="24" start-col="2" end-col="2">
+      <Coords points="1195,1772 1195,1830 1587,1828 1587,1772"/>
+    </cell>
+    <cell start-row="24" end-row="24" start-col="3" end-col="3">
+      <Coords points="1587,1772 1587,1828 1653,1827 1652,1773"/>
+    </cell>
+    <cell start-row="24" end-row="24" start-col="4" end-col="4">
+      <Coords points="1652,1773 1653,1827 1699,1827 1699,1773"/>
+    </cell>
+    <cell start-row="24" end-row="24" start-col="5" end-col="5">
+      <Coords points="1699,1773 1699,1827 1757,1827 1757,1773"/>
+    </cell>
+    <cell start-row="25" end-row="25" start-col="0" end-col="0">
+      <Coords points="1063,1830 1064,1872 1145,1873 1144,1830"/>
+    </cell>
+    <cell start-row="25" end-row="25" start-col="1" end-col="1">
+      <Coords points="1144,1830 1145,1873 1196,1875 1195,1830"/>
+    </cell>
+    <cell start-row="25" end-row="25" start-col="2" end-col="2">
+      <Coords points="1195,1830 1196,1875 1587,1876 1587,1828"/>
+    </cell>
+    <cell start-row="25" end-row="25" start-col="3" end-col="3">
+      <Coords points="1587,1828 1587,1876 1654,1876 1653,1827"/>
+    </cell>
+    <cell start-row="25" end-row="25" start-col="4" end-col="4">
+      <Coords points="1653,1827 1654,1876 1700,1875 1699,1827"/>
+    </cell>
+    <cell start-row="25" end-row="25" start-col="5" end-col="5">
+      <Coords points="1699,1827 1700,1875 1758,1875 1757,1827"/>
+    </cell>
+    <cell start-row="26" end-row="26" start-col="0" end-col="0">
+      <Coords points="1064,1872 1064,1948 1145,1948 1145,1873"/>
+    </cell>
+    <cell start-row="26" end-row="26" start-col="1" end-col="1">
+      <Coords points="1145,1873 1145,1948 1196,1948 1196,1875"/>
+    </cell>
+    <cell start-row="26" end-row="26" start-col="2" end-col="2">
+      <Coords points="1196,1875 1196,1948 1587,1946 1587,1876"/>
+    </cell>
+    <cell start-row="26" end-row="26" start-col="3" end-col="3">
+      <Coords points="1587,1876 1587,1946 1653,1945 1654,1876"/>
+    </cell>
+    <cell start-row="26" end-row="26" start-col="4" end-col="4">
+      <Coords points="1654,1876 1653,1945 1699,1945 1700,1875"/>
+    </cell>
+    <cell start-row="26" end-row="26" start-col="5" end-col="5">
+      <Coords points="1700,1875 1699,1945 1758,1945 1758,1875"/>
+    </cell>
+    <cell start-row="27" end-row="27" start-col="0" end-col="0">
+      <Coords points="1064,1948 1064,2008 1145,2008 1145,1948"/>
+    </cell>
+    <cell start-row="27" end-row="27" start-col="1" end-col="1">
+      <Coords points="1145,1948 1145,2008 1196,2008 1196,1948"/>
+    </cell>
+    <cell start-row="27" end-row="27" start-col="2" end-col="2">
+      <Coords points="1196,1948 1196,2008 1587,2006 1587,1946"/>
+    </cell>
+    <cell start-row="27" end-row="27" start-col="3" end-col="3">
+      <Coords points="1587,1946 1587,2006 1652,2005 1653,1945"/>
+    </cell>
+    <cell start-row="27" end-row="27" start-col="4" end-col="4">
+      <Coords points="1653,1945 1652,2005 1699,2005 1699,1945"/>
+    </cell>
+    <cell start-row="27" end-row="27" start-col="5" end-col="5">
+      <Coords points="1699,1945 1699,2005 1758,2005 1758,1945"/>
+    </cell>
+    <cell start-row="28" end-row="28" start-col="0" end-col="0">
+      <Coords points="1064,2008 1065,2061 1145,2061 1145,2008"/>
+    </cell>
+    <cell start-row="28" end-row="28" start-col="1" end-col="1">
+      <Coords points="1145,2008 1145,2061 1196,2061 1196,2008"/>
+    </cell>
+    <cell start-row="28" end-row="28" start-col="2" end-col="2">
+      <Coords points="1196,2008 1196,2061 1587,2059 1587,2006"/>
+    </cell>
+    <cell start-row="28" end-row="28" start-col="3" end-col="3">
+      <Coords points="1587,2006 1587,2059 1652,2058 1652,2005"/>
+    </cell>
+    <cell start-row="28" end-row="28" start-col="4" end-col="4">
+      <Coords points="1652,2005 1652,2058 1699,2058 1699,2005"/>
+    </cell>
+    <cell start-row="28" end-row="28" start-col="5" end-col="5">
+      <Coords points="1699,2005 1699,2058 1759,2058 1758,2005"/>
+    </cell>
+    <cell start-row="29" end-row="29" start-col="0" end-col="0">
+      <Coords points="1065,2061 1066,2114 1146,2115 1145,2061"/>
+    </cell>
+    <cell start-row="29" end-row="29" start-col="1" end-col="1">
+      <Coords points="1145,2061 1146,2115 1197,2115 1196,2061"/>
+    </cell>
+    <cell start-row="29" end-row="29" start-col="2" end-col="2">
+      <Coords points="1196,2061 1197,2115 1587,2120 1587,2059"/>
+    </cell>
+    <cell start-row="29" end-row="29" start-col="3" end-col="3">
+      <Coords points="1587,2059 1587,2120 1652,2121 1652,2058"/>
+    </cell>
+    <cell start-row="29" end-row="29" start-col="4" end-col="4">
+      <Coords points="1652,2058 1652,2121 1699,2121 1699,2058"/>
+    </cell>
+    <cell start-row="29" end-row="29" start-col="5" end-col="5">
+      <Coords points="1699,2058 1699,2121 1760,2122 1759,2058"/>
+    </cell>
+    <cell start-row="30" end-row="30" start-col="0" end-col="0">
+      <Coords points="1066,2114 1067,2160 1147,2160 1146,2115"/>
+    </cell>
+    <cell start-row="30" end-row="30" start-col="1" end-col="1">
+      <Coords points="1146,2115 1147,2160 1198,2161 1197,2115"/>
+    </cell>
+    <cell start-row="30" end-row="30" start-col="2" end-col="2">
+      <Coords points="1197,2115 1198,2161 1588,2162 1587,2120"/>
+    </cell>
+    <cell start-row="30" end-row="30" start-col="3" end-col="3">
+      <Coords points="1587,2120 1588,2162 1652,2161 1652,2121"/>
+    </cell>
+    <cell start-row="30" end-row="30" start-col="4" end-col="4">
+      <Coords points="1652,2121 1652,2161 1699,2161 1699,2121"/>
+    </cell>
+    <cell start-row="30" end-row="30" start-col="5" end-col="5">
+      <Coords points="1699,2121 1699,2161 1761,2161 1760,2122"/>
+    </cell>
+    <cell start-row="31" end-row="31" start-col="0" end-col="0">
+      <Coords points="1067,2160 1067,2234 1147,2234 1147,2160"/>
+    </cell>
+    <cell start-row="31" end-row="31" start-col="1" end-col="1">
+      <Coords points="1147,2160 1147,2234 1198,2233 1198,2161"/>
+    </cell>
+    <cell start-row="31" end-row="31" start-col="2" end-col="2">
+      <Coords points="1198,2161 1198,2233 1588,2229 1588,2162"/>
+    </cell>
+    <cell start-row="31" end-row="31" start-col="3" end-col="3">
+      <Coords points="1588,2162 1588,2229 1652,2228 1652,2161"/>
+    </cell>
+    <cell start-row="31" end-row="31" start-col="4" end-col="4">
+      <Coords points="1652,2161 1652,2228 1699,2227 1699,2161"/>
+    </cell>
+    <cell start-row="31" end-row="31" start-col="5" end-col="5">
+      <Coords points="1699,2161 1699,2227 1761,2227 1761,2161"/>
+    </cell>
+    <cell start-row="32" end-row="32" start-col="0" end-col="0">
+      <Coords points="1067,2234 1067,2290 1147,2290 1147,2234"/>
+    </cell>
+    <cell start-row="32" end-row="32" start-col="1" end-col="1">
+      <Coords points="1147,2234 1147,2290 1198,2290 1198,2233"/>
+    </cell>
+    <cell start-row="32" end-row="32" start-col="2" end-col="2">
+      <Coords points="1198,2233 1198,2290 1588,2290 1588,2229"/>
+    </cell>
+    <cell start-row="32" end-row="32" start-col="3" end-col="3">
+      <Coords points="1588,2229 1588,2290 1652,2290 1652,2228"/>
+    </cell>
+    <cell start-row="32" end-row="32" start-col="4" end-col="4">
+      <Coords points="1652,2228 1652,2290 1699,2290 1699,2227"/>
+    </cell>
+    <cell start-row="32" end-row="32" start-col="5" end-col="5">
+      <Coords points="1699,2227 1699,2290 1761,2290 1761,2227"/>
+    </cell>
+    <cell start-row="33" end-row="33" start-col="0" end-col="0">
+      <Coords points="1067,2290 1067,2346 1147,2346 1147,2290"/>
+    </cell>
+    <cell start-row="33" end-row="33" start-col="1" end-col="1">
+      <Coords points="1147,2290 1147,2346 1198,2345 1198,2290"/>
+    </cell>
+    <cell start-row="33" end-row="33" start-col="2" end-col="2">
+      <Coords points="1198,2290 1198,2345 1588,2342 1588,2290"/>
+    </cell>
+    <cell start-row="33" end-row="33" start-col="3" end-col="3">
+      <Coords points="1588,2290 1588,2342 1652,2341 1652,2290"/>
+    </cell>
+    <cell start-row="33" end-row="33" start-col="4" end-col="4">
+      <Coords points="1652,2290 1652,2341 1699,2340 1699,2290"/>
+    </cell>
+    <cell start-row="33" end-row="33" start-col="5" end-col="5">
+      <Coords points="1699,2290 1699,2340 1761,2340 1761,2290"/>
+    </cell>
+    <cell start-row="34" end-row="34" start-col="0" end-col="0">
+      <Coords points="1067,2346 1067,2404 1147,2404 1147,2346"/>
+    </cell>
+    <cell start-row="34" end-row="34" start-col="1" end-col="1">
+      <Coords points="1147,2346 1147,2404 1198,2404 1198,2345"/>
+    </cell>
+    <cell start-row="34" end-row="34" start-col="2" end-col="2">
+      <Coords points="1198,2345 1198,2404 1588,2406 1588,2342"/>
+    </cell>
+    <cell start-row="34" end-row="34" start-col="3" end-col="3">
+      <Coords points="1588,2342 1588,2406 1653,2406 1652,2341"/>
+    </cell>
+    <cell start-row="34" end-row="34" start-col="4" end-col="4">
+      <Coords points="1652,2341 1653,2406 1700,2406 1699,2340"/>
+    </cell>
+    <cell start-row="34" end-row="34" start-col="5" end-col="5">
+      <Coords points="1699,2340 1700,2406 1762,2406 1761,2340"/>
+    </cell>
+    <cell start-row="35" end-row="35" start-col="0" end-col="0">
+      <Coords points="1067,2404 1067,2463 1147,2463 1147,2404"/>
+    </cell>
+    <cell start-row="36" end-row="36" start-col="0" end-col="0">
+      <Coords points="1067,2463 1069,2584 1148,2582 1147,2463"/>
+    </cell>
+    <cell start-row="35" end-row="35" start-col="1" end-col="1">
+      <Coords points="1147,2404 1147,2463 1199,2463 1198,2404"/>
+    </cell>
+    <cell start-row="36" end-row="36" start-col="1" end-col="1">
+      <Coords points="1147,2463 1148,2582 1201,2581 1199,2463"/>
+    </cell>
+    <cell start-row="35" end-row="35" start-col="2" end-col="2">
+      <Coords points="1198,2404 1199,2463 1588,2461 1588,2406"/>
+    </cell>
+    <cell start-row="36" end-row="36" start-col="2" end-col="2">
+      <Coords points="1199,2463 1201,2581 1591,2583 1588,2461"/>
+    </cell>
+    <cell start-row="35" end-row="35" start-col="3" end-col="3">
+      <Coords points="1588,2406 1588,2461 1654,2461 1653,2406"/>
+    </cell>
+    <cell start-row="36" end-row="36" start-col="3" end-col="3">
+      <Coords points="1588,2461 1591,2583 1657,2584 1654,2461"/>
+    </cell>
+    <cell start-row="35" end-row="35" start-col="4" end-col="4">
+      <Coords points="1653,2406 1654,2461 1701,2461 1700,2406"/>
+    </cell>
+    <cell start-row="36" end-row="36" start-col="4" end-col="4">
+      <Coords points="1654,2461 1657,2584 1704,2584 1701,2461"/>
+    </cell>
+    <cell start-row="35" end-row="35" start-col="5" end-col="5">
+      <Coords points="1700,2406 1701,2461 1763,2461 1762,2406"/>
+    </cell>
+    <cell start-row="36" end-row="36" start-col="5" end-col="5">
+      <Coords points="1701,2461 1704,2584 1766,2584 1763,2461"/>
+    </cell>
+  </table>
+  <table>
+    <Coords points="38,2 1978,2 1978,178 38,178"/>
+    <cell start-row="0" end-row="0" start-col="0" end-col="0">
+      <Coords points="40,4 41,57 282,57 283,4"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="1" end-col="1">
+      <Coords points="283,4 282,57 844,58 844,6"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="2" end-col="2">
+      <Coords points="844,6 844,58 1345,59 1347,6"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="3" end-col="3">
+      <Coords points="1347,6 1345,59 1725,57 1726,6"/>
+    </cell>
+    <cell start-row="0" end-row="0" start-col="4" end-col="4">
+      <Coords points="1726,6 1725,57 1978,57 1979,5"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="0" end-col="0">
+      <Coords points="41,57 44,177 284,177 282,57"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="1" end-col="1">
+      <Coords points="282,57 284,177 844,179 844,58"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="2" end-col="2">
+      <Coords points="844,58 844,179 1347,178 1345,59"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="3" end-col="3">
+      <Coords points="1345,59 1347,178 1726,178 1725,57"/>
+    </cell>
+    <cell start-row="1" end-row="1" start-col="4" end-col="4">
+      <Coords points="1725,57 1726,178 1978,178 1978,57"/>
+    </cell>
+  </table>
+</document>
